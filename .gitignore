@@ -1,0 +1,14 @@
+# Google API credentials
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/

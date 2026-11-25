@@ -1,0 +1,519 @@
+2026-11-24 21:27:55,445 - INFO - MOVED | FROM: C:\\rtools45\usr\lib\mxe\usr\x86_64-w64-mingw32.static.posix\share\doc\OpenEXR-2.2.0\InterpretingDeepPixels.pdf | TO: C:\Drive_Organizer\PDF_Files\InterpretingDeepPixels.pdf
+2026-11-24 21:27:55,454 - INFO - MOVED | FROM: C:\\rtools45\usr\lib\mxe\usr\x86_64-w64-mingw32.static.posix\share\doc\OpenEXR-2.2.0\MultiViewOpenEXR.pdf | TO: C:\Drive_Organizer\PDF_Files\MultiViewOpenEXR.pdf
+2026-11-24 21:27:55,456 - INFO - MOVED | FROM: C:\\rtools45\usr\lib\mxe\usr\x86_64-w64-mingw32.static.posix\share\doc\OpenEXR-2.2.0\OpenEXRFileLayout.pdf | TO: C:\Drive_Organizer\PDF_Files\OpenEXRFileLayout.pdf
+2026-11-24 21:27:55,456 - INFO - MOVED | FROM: C:\\rtools45\usr\lib\mxe\usr\x86_64-w64-mingw32.static.posix\share\doc\OpenEXR-2.2.0\ReadingAndWritingImageFiles.pdf | TO: C:\Drive_Organizer\PDF_Files\ReadingAndWritingImageFiles.pdf
+2026-11-24 21:27:55,456 - INFO - MOVED | FROM: C:\\rtools45\usr\lib\mxe\usr\x86_64-w64-mingw32.static.posix\share\doc\OpenEXR-2.2.0\TechnicalIntroduction.pdf | TO: C:\Drive_Organizer\PDF_Files\TechnicalIntroduction.pdf
+2026-11-24 21:27:55,462 - INFO - MOVED | FROM: C:\\rtools45\usr\lib\mxe\usr\x86_64-w64-mingw32.static.posix\share\doc\OpenEXR-2.2.0\TheoryDeepPixels.pdf | TO: C:\Drive_Organizer\PDF_Files\TheoryDeepPixels.pdf
+2026-11-24 21:27:55,462 - INFO - MOVED | FROM: C:\\rtools45\usr\share\doc\qpdf\qpdf-manual.pdf | TO: C:\Drive_Organizer\PDF_Files\qpdf-manual.pdf
+2026-11-24 21:27:55,462 - ERROR - FAILED | FILE: C:\\rtools45\x86_64-w64-mingw32.static.posix\share\doc\OpenEXR-2.2.0\InterpretingDeepPixels.pdf | ERROR: [WinError 2] The system cannot find the file specified
+2026-11-24 21:27:55,462 - ERROR - FAILED | FILE: C:\\rtools45\x86_64-w64-mingw32.static.posix\share\doc\OpenEXR-2.2.0\MultiViewOpenEXR.pdf | ERROR: [WinError 2] The system cannot find the file specified
+2026-11-24 21:27:55,462 - ERROR - FAILED | FILE: C:\\rtools45\x86_64-w64-mingw32.static.posix\share\doc\OpenEXR-2.2.0\OpenEXRFileLayout.pdf | ERROR: [WinError 2] The system cannot find the file specified
+2026-11-24 21:27:55,470 - ERROR - FAILED | FILE: C:\\rtools45\x86_64-w64-mingw32.static.posix\share\doc\OpenEXR-2.2.0\ReadingAndWritingImageFiles.pdf | ERROR: [WinError 2] The system cannot find the file specified
+2026-11-24 21:27:55,470 - ERROR - FAILED | FILE: C:\\rtools45\x86_64-w64-mingw32.static.posix\share\doc\OpenEXR-2.2.0\TechnicalIntroduction.pdf | ERROR: [WinError 2] The system cannot find the file specified
+2026-11-24 21:27:55,470 - ERROR - FAILED | FILE: C:\\rtools45\x86_64-w64-mingw32.static.posix\share\doc\OpenEXR-2.2.0\TheoryDeepPixels.pdf | ERROR: [WinError 2] The system cannot find the file specified
+2026-11-24 21:27:55,470 - INFO - MOVED | FROM: C:\\Users\user\2. THYROID GLAND.pptx | TO: C:\Drive_Organizer\PPT_Files\2. THYROID GLAND.pptx
+2026-11-24 21:27:55,470 - INFO - MOVED | FROM: C:\\Users\user\20. WOUND AND WOUND HEALING.pdf | TO: C:\Drive_Organizer\PDF_Files\20. WOUND AND WOUND HEALING.pdf
+2026-11-24 21:27:55,470 - INFO - MOVED | FROM: C:\\Users\user\LETTER OF FINANCIAL STATUS OF MRS MARY NYAMADI.docx | TO: C:\Drive_Organizer\DOCX_Files\LETTER OF FINANCIAL STATUS OF MRS MARY NYAMADI.docx
+2026-11-24 21:27:55,480 - INFO - MOVED | FROM: C:\\Users\user\MY THESIS rev 1.docx | TO: C:\Drive_Organizer\DOCX_Files\MY THESIS rev 1.docx
+2026-11-24 21:27:55,481 - INFO - MOVED | FROM: C:\\Users\user\MYASTENIA GRAVIS.pdf | TO: C:\Drive_Organizer\PDF_Files\MYASTENIA GRAVIS.pdf
+2026-11-24 21:27:55,482 - INFO - MOVED | FROM: C:\\Users\user\Timetable SMPA 201_PA 2_2024.docx | TO: C:\Drive_Organizer\DOCX_Files\Timetable SMPA 201_PA 2_2024.docx
+2026-11-24 21:27:55,482 - INFO - MOVED | FROM: C:\\Users\user\UHAS202212250.docx | TO: C:\Drive_Organizer\DOCX_Files\UHAS202212250.docx
+2026-11-24 21:27:55,496 - INFO - MOVED | FROM: C:\\Users\user\~$ THESIS rev 1.docx | TO: C:\Drive_Organizer\DOCX_Files\~$ THESIS rev 1.docx
+2026-11-24 21:27:55,496 - INFO - MOVED | FROM: C:\\Users\user\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\site-packages\docx\templates\default.docx | TO: C:\Drive_Organizer\DOCX_Files\default.docx
+2026-11-24 21:27:55,515 - INFO - MOVED | FROM: C:\\Users\user\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\site-packages\pptx\templates\default.pptx | TO: C:\Drive_Organizer\PPT_Files\default.pptx
+2026-11-24 21:27:55,515 - INFO - MOVED | FROM: C:\\Users\user\.vscode\extensions\.478c4195-489b-498c-b0e8-5a9c55eb2f29\webview\assets\meeting-notes-217e093e29da.docx | TO: C:\Drive_Organizer\DOCX_Files\meeting-notes-217e093e29da.docx
+2026-11-24 21:27:55,515 - INFO - MOVED | FROM: C:\\Users\user\.vscode\extensions\.478c4195-489b-498c-b0e8-5a9c55eb2f29\webview\assets\monthly-business-review-aa25b4112c50.pptx | TO: C:\Drive_Organizer\PPT_Files\monthly-business-review-aa25b4112c50.pptx
+2026-11-24 21:27:55,532 - INFO - MOVED | FROM: C:\\Users\user\.vscode\extensions\.478c4195-489b-498c-b0e8-5a9c55eb2f29\webview\assets\project-brief-e08b85749970.docx | TO: C:\Drive_Organizer\DOCX_Files\project-brief-e08b85749970.docx
+2026-11-24 21:27:55,532 - INFO - MOVED | FROM: C:\\Users\user\.vscode\extensions\.478c4195-489b-498c-b0e8-5a9c55eb2f29\webview\assets\report-outline-d47cda7d5af6.docx | TO: C:\Drive_Organizer\DOCX_Files\report-outline-d47cda7d5af6.docx
+2026-11-24 21:27:55,540 - INFO - MOVED | FROM: C:\\Users\user\.vscode\extensions\.478c4195-489b-498c-b0e8-5a9c55eb2f29\webview\assets\sales-discovery-c8f07eacd6f2.pptx | TO: C:\Drive_Organizer\PPT_Files\sales-discovery-c8f07eacd6f2.pptx
+2026-11-24 21:27:55,548 - INFO - MOVED | FROM: C:\\Users\user\.vscode\extensions\openai.chatgpt-26.1120.41243-win32-x64\webview\assets\217e093e29da.docx | TO: C:\Drive_Organizer\DOCX_Files\217e093e29da.docx
+2026-11-24 21:27:55,548 - INFO - MOVED | FROM: C:\\Users\user\.vscode\extensions\openai.chatgpt-26.1120.41243-win32-x64\webview\assets\aa25b4112c50.pptx | TO: C:\Drive_Organizer\PPT_Files\aa25b4112c50.pptx
+2026-11-24 21:27:55,556 - INFO - MOVED | FROM: C:\\Users\user\.vscode\extensions\openai.chatgpt-26.1120.41243-win32-x64\webview\assets\c8f07eacd6f2.pptx | TO: C:\Drive_Organizer\PPT_Files\c8f07eacd6f2.pptx
+2026-11-24 21:27:55,556 - INFO - MOVED | FROM: C:\\Users\user\.vscode\extensions\openai.chatgpt-26.1120.41243-win32-x64\webview\assets\d47cda7d5af6.docx | TO: C:\Drive_Organizer\DOCX_Files\d47cda7d5af6.docx
+2026-11-24 21:27:55,562 - INFO - MOVED | FROM: C:\\Users\user\.vscode\extensions\openai.chatgpt-26.1120.41243-win32-x64\webview\assets\df0c95705aed.pptx | TO: C:\Drive_Organizer\PPT_Files\df0c95705aed.pptx
+2026-11-24 21:27:55,567 - INFO - MOVED | FROM: C:\\Users\user\.vscode\extensions\openai.chatgpt-26.1120.41243-win32-x64\webview\assets\e08b85749970.docx | TO: C:\Drive_Organizer\DOCX_Files\e08b85749970.docx
+2026-11-24 21:27:55,567 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Mendeley Ltd\Mendeley Desktop\Downloaded\Duedu et al. - 2013 - The effects of co-infection with human parvovirus B19 and Plasmodium falciparum on type and degree of anaemia in G.pdf | TO: C:\Drive_Organizer\PDF_Files\Duedu et al. - 2013 - The effects of co-infection with human parvovirus B19 and Plasmodium falciparum on type and degree of anaemia in G.pdf
+2026-11-24 21:27:55,575 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\Files\S0\153\Attachments\23-24_FY_EDagreement (3)[176].pdf | TO: C:\Drive_Organizer\PDF_Files\23-24_FY_EDagreement (3)[176].pdf
+2026-11-24 21:27:55,579 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\Files\S0\153\Attachments\GENETIC DISORDER -UHAS202212250[2305843009214467858].pdf | TO: C:\Drive_Organizer\PDF_Files\GENETIC DISORDER -UHAS202212250[2305843009214467858].pdf
+2026-11-24 21:27:55,582 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\Files\S0\153\Attachments\oil n gas schorlarship essay[2305843009214467836].docx | TO: C:\Drive_Organizer\DOCX_Files\oil n gas schorlarship essay[2305843009214467836].docx
+2026-11-24 21:27:55,582 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\Files\S0\28\Attachments\24-25 ISFAA[184].pdf | TO: C:\Drive_Organizer\PDF_Files\24-25 ISFAA[184].pdf
+2026-11-24 21:27:55,590 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\Files\S0\28\Attachments\24-25 ISFAA[185].pdf | TO: C:\Drive_Organizer\PDF_Files\24-25 ISFAA[185].pdf
+2026-11-24 21:27:55,590 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\Files\S0\28\Attachments\GENETIC DISORDER -UHAS202212250[225].pdf | TO: C:\Drive_Organizer\PDF_Files\GENETIC DISORDER -UHAS202212250[225].pdf
+2026-11-24 21:27:55,599 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\Files\S0\28\Attachments\TULANE LOCI[224].docx | TO: C:\Drive_Organizer\DOCX_Files\TULANE LOCI[224].docx
+2026-11-24 21:27:55,615 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\Files\S0\28\Attachments\TulaneCertificationofFinances2023 (1)[92].pdf | TO: C:\Drive_Organizer\PDF_Files\TulaneCertificationofFinances2023 (1)[92].pdf
+2026-11-24 21:27:55,615 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\Files\S0\3\Attachments\Affidavit-Of-Support[2305843009213707983].pdf | TO: C:\Drive_Organizer\PDF_Files\Affidavit-Of-Support[2305843009213707983].pdf
+2026-11-24 21:27:55,623 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\Files\S0\3\Attachments\HONOUR 1[2305843009215340006].pdf | TO: C:\Drive_Organizer\PDF_Files\HONOUR 1[2305843009215340006].pdf
+2026-11-24 21:27:55,631 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\Files\S0\3\Attachments\HONOUR 2[2305843009215340019].pdf | TO: C:\Drive_Organizer\PDF_Files\HONOUR 2[2305843009215340019].pdf
+2026-11-24 21:27:55,632 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\Files\S0\3\Attachments\KETASCO NSMQ[2305843009215340033].pdf | TO: C:\Drive_Organizer\PDF_Files\KETASCO NSMQ[2305843009215340033].pdf
+2026-11-24 21:27:55,640 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\docx\templates\default.docx | TO: C:\Drive_Organizer\DOCX_Files\default_1.docx
+2026-11-24 21:27:55,640 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\R\win-library\4.6\ggplot2\help\figures\linetype_table.pdf | TO: C:\Drive_Organizer\PDF_Files\linetype_table.pdf
+2026-11-24 21:27:55,649 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\R\win-library\4.6\ggplot2\help\figures\shape_table.pdf | TO: C:\Drive_Organizer\PDF_Files\shape_table.pdf
+2026-11-24 21:27:55,649 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\R\win-library\4.6\googledrive\extdata\example_files\chicken.pdf | TO: C:\Drive_Organizer\PDF_Files\chicken.pdf
+2026-11-24 21:27:55,649 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\R\win-library\4.6\jsonlite\doc\json-mapping.pdf | TO: C:\Drive_Organizer\PDF_Files\json-mapping.pdf
+2026-11-24 21:27:55,657 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\R\win-library\4.6\jsonlite\doc\json-opencpu.pdf | TO: C:\Drive_Organizer\PDF_Files\json-opencpu.pdf
+2026-11-24 21:27:55,657 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\R\win-library\4.6\Rcpp\doc\Rcpp-attributes.pdf | TO: C:\Drive_Organizer\PDF_Files\Rcpp-attributes.pdf
+2026-11-24 21:27:55,665 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\R\win-library\4.6\Rcpp\doc\Rcpp-extending.pdf | TO: C:\Drive_Organizer\PDF_Files\Rcpp-extending.pdf
+2026-11-24 21:27:55,665 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\R\win-library\4.6\Rcpp\doc\Rcpp-FAQ.pdf | TO: C:\Drive_Organizer\PDF_Files\Rcpp-FAQ.pdf
+2026-11-24 21:27:55,665 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\R\win-library\4.6\Rcpp\doc\Rcpp-introduction.pdf | TO: C:\Drive_Organizer\PDF_Files\Rcpp-introduction.pdf
+2026-11-24 21:27:55,673 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\R\win-library\4.6\Rcpp\doc\Rcpp-jss-2011.pdf | TO: C:\Drive_Organizer\PDF_Files\Rcpp-jss-2011.pdf
+2026-11-24 21:27:55,673 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\R\win-library\4.6\Rcpp\doc\Rcpp-libraries.pdf | TO: C:\Drive_Organizer\PDF_Files\Rcpp-libraries.pdf
+2026-11-24 21:27:55,681 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\R\win-library\4.6\Rcpp\doc\Rcpp-modules.pdf | TO: C:\Drive_Organizer\PDF_Files\Rcpp-modules.pdf
+2026-11-24 21:27:55,681 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\R\win-library\4.6\Rcpp\doc\Rcpp-package.pdf | TO: C:\Drive_Organizer\PDF_Files\Rcpp-package.pdf
+2026-11-24 21:27:55,689 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\R\win-library\4.6\Rcpp\doc\Rcpp-quickref.pdf | TO: C:\Drive_Organizer\PDF_Files\Rcpp-quickref.pdf
+2026-11-24 21:27:55,692 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\R\win-library\4.6\Rcpp\doc\Rcpp-sugar.pdf | TO: C:\Drive_Organizer\PDF_Files\Rcpp-sugar.pdf
+2026-11-24 21:27:55,698 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\R\win-library\4.6\tinytest\doc\tinytest_examples.pdf | TO: C:\Drive_Organizer\PDF_Files\tinytest_examples.pdf
+2026-11-24 21:27:55,698 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\R\win-library\4.6\tinytest\doc\using_tinytest.pdf | TO: C:\Drive_Organizer\PDF_Files\using_tinytest.pdf
+2026-11-24 21:27:55,698 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\TCD6D4A.tmp\Text Sidebar (Annual Report Red and Black design).docx | TO: C:\Drive_Organizer\DOCX_Files\Text Sidebar (Annual Report Red and Black design).docx
+2026-11-24 21:27:55,709 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\TCD90B1.tmp\Text Sidebar (Annual Report Red and Black design).docx | TO: C:\Drive_Organizer\DOCX_Files\Text Sidebar (Annual Report Red and Black design)_1.docx
+2026-11-24 21:27:55,713 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\TCDC8FB.tmp\Text Sidebar (Annual Report Red and Black design).docx | TO: C:\Drive_Organizer\DOCX_Files\Text Sidebar (Annual Report Red and Black design)_2.docx
+2026-11-24 21:27:55,713 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\TCDD40D.tmp\Text Sidebar (Annual Report Red and Black design).docx | TO: C:\Drive_Organizer\DOCX_Files\Text Sidebar (Annual Report Red and Black design)_3.docx
+2026-11-24 21:27:55,717 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_1grsou8_\Test_1.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_1.docx
+2026-11-24 21:27:55,717 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_1grsou8_\Test_2.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_2.docx
+2026-11-24 21:27:55,725 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_1grsou8_\Test_3.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_3.docx
+2026-11-24 21:27:55,729 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_1grsou8_\Test_4.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_4.docx
+2026-11-24 21:27:55,729 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_1grsou8_\Test_5.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_5.docx
+2026-11-24 21:27:55,740 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_1grsou8_\Test_6.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_6.docx
+2026-11-24 21:27:55,740 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_1grsou8_\Test_7.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_7.docx
+2026-11-24 21:27:55,747 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_jd5xqu92\Test_1.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_1_1.docx
+2026-11-24 21:27:55,748 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_jd5xqu92\Test_2.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_2_1.docx
+2026-11-24 21:27:55,748 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_jd5xqu92\Test_3.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_3_1.docx
+2026-11-24 21:27:55,748 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_jd5xqu92\Test_4.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_4_1.docx
+2026-11-24 21:27:55,748 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_jd5xqu92\Test_5.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_5_1.docx
+2026-11-24 21:27:55,756 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_jd5xqu92\Test_6.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_6_1.docx
+2026-11-24 21:27:55,756 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_jd5xqu92\Test_7.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_7_1.docx
+2026-11-24 21:27:55,756 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_l8zqlfuh\Test_1.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_1_2.docx
+2026-11-24 21:27:55,762 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_l8zqlfuh\Test_2.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_2_2.docx
+2026-11-24 21:27:55,762 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_qxissah0\Test_1.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_1_3.docx
+2026-11-24 21:27:55,762 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_qxissah0\Test_2.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_2_3.docx
+2026-11-24 21:27:55,772 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_qxissah0\Test_3.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_3_2.docx
+2026-11-24 21:27:55,772 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_qxissah0\Test_4.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_4_2.docx
+2026-11-24 21:27:55,772 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_qxissah0\Test_5.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_5_2.docx
+2026-11-24 21:27:55,779 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_qxissah0\Test_6.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_6_2.docx
+2026-11-24 21:27:55,780 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v7_tests_qxissah0\Test_7.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_7_2.docx
+2026-11-24 21:27:55,780 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v9_tests_v__v4t6_\Test_1.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_1_4.docx
+2026-11-24 21:27:55,780 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v9_tests_v__v4t6_\Test_2.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_2_4.docx
+2026-11-24 21:27:55,780 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v9_tests_v__v4t6_\Test_3.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_3_3.docx
+2026-11-24 21:27:55,790 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v9_tests_v__v4t6_\Test_4.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_4_3.docx
+2026-11-24 21:27:55,790 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v9_tests_v__v4t6_\Test_5a.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_5a.docx
+2026-11-24 21:27:55,796 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v9_tests_v__v4t6_\Test_5b.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_5b.docx
+2026-11-24 21:27:55,796 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v9_tests_v__v4t6_\Test_5c.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_5c.docx
+2026-11-24 21:27:55,796 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v9_tests_v__v4t6_\Test_6.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_6_3.docx
+2026-11-24 21:27:55,796 - INFO - MOVED | FROM: C:\\Users\user\AppData\Local\Temp\v9_tests_v__v4t6_\Test_7.docx | TO: C:\Drive_Organizer\DOCX_Files\Test_7_3.docx
+2026-11-24 21:27:55,806 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win32\ghostscript\doc\GS9_Color_Management.pdf | TO: C:\Drive_Organizer\PDF_Files\GS9_Color_Management.pdf
+2026-11-24 21:27:55,806 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win32\ghostscript\doc\colormanage\figures\architecture.pdf | TO: C:\Drive_Organizer\PDF_Files\architecture.pdf
+2026-11-24 21:27:55,812 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win32\ghostscript\doc\colormanage\figures\destination_profile.pdf | TO: C:\Drive_Organizer\PDF_Files\destination_profile.pdf
+2026-11-24 21:27:55,813 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win32\ghostscript\doc\colormanage\figures\des_profile_intent.pdf | TO: C:\Drive_Organizer\PDF_Files\des_profile_intent.pdf
+2026-11-24 21:27:55,813 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win32\ghostscript\doc\colormanage\figures\DeviceN_Figure1.pdf | TO: C:\Drive_Organizer\PDF_Files\DeviceN_Figure1.pdf
+2026-11-24 21:27:55,813 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win32\ghostscript\doc\colormanage\figures\ghostscriptR_stack_RGBclr_CS6.pdf | TO: C:\Drive_Organizer\PDF_Files\ghostscriptR_stack_RGBclr_CS6.pdf
+2026-11-24 21:27:55,813 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win32\ghostscript\doc\colormanage\figures\Object_Color.pdf | TO: C:\Drive_Organizer\PDF_Files\Object_Color.pdf
+2026-11-24 21:27:55,821 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win32\ghostscript\doc\colormanage\figures\proof_link.pdf | TO: C:\Drive_Organizer\PDF_Files\proof_link.pdf
+2026-11-24 21:27:55,821 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win32\ghostscript\doc\colormanage\figures\source_intent.pdf | TO: C:\Drive_Organizer\PDF_Files\source_intent.pdf
+2026-11-24 21:27:55,821 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win32\ghostscript\doc\colormanage\figures\source_profile.pdf | TO: C:\Drive_Organizer\PDF_Files\source_profile.pdf
+2026-11-24 21:27:55,821 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win32\ghostscript\doc\colormanage\figures\text_graph_image_cmyk_rgb.pdf | TO: C:\Drive_Organizer\PDF_Files\text_graph_image_cmyk_rgb.pdf
+2026-11-24 21:27:55,829 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win32\ghostscript\doc\language-bindings\gs-language-bindings.pdf | TO: C:\Drive_Organizer\PDF_Files\gs-language-bindings.pdf
+2026-11-24 21:27:55,831 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win32\ghostscript\doc\pclxps\ghostpdl.pdf | TO: C:\Drive_Organizer\PDF_Files\ghostpdl.pdf
+2026-11-24 21:27:55,831 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win32\ghostscript\examples\annots.pdf | TO: C:\Drive_Organizer\PDF_Files\annots.pdf
+2026-11-24 21:27:55,831 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win32\ghostscript\examples\text_graphic_image.pdf | TO: C:\Drive_Organizer\PDF_Files\text_graphic_image.pdf
+2026-11-24 21:27:55,839 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win32\ghostscript\examples\text_graph_image_cmyk_rgb.pdf | TO: C:\Drive_Organizer\PDF_Files\text_graph_image_cmyk_rgb_1.pdf
+2026-11-24 21:27:55,839 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win64\ghostscript\doc\GS9_Color_Management.pdf | TO: C:\Drive_Organizer\PDF_Files\GS9_Color_Management_1.pdf
+2026-11-24 21:27:55,839 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win64\ghostscript\doc\colormanage\figures\architecture.pdf | TO: C:\Drive_Organizer\PDF_Files\architecture_1.pdf
+2026-11-24 21:27:55,839 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win64\ghostscript\doc\colormanage\figures\destination_profile.pdf | TO: C:\Drive_Organizer\PDF_Files\destination_profile_1.pdf
+2026-11-24 21:27:55,847 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win64\ghostscript\doc\colormanage\figures\des_profile_intent.pdf | TO: C:\Drive_Organizer\PDF_Files\des_profile_intent_1.pdf
+2026-11-24 21:27:55,847 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win64\ghostscript\doc\colormanage\figures\DeviceN_Figure1.pdf | TO: C:\Drive_Organizer\PDF_Files\DeviceN_Figure1_1.pdf
+2026-11-24 21:27:55,847 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win64\ghostscript\doc\colormanage\figures\ghostscriptR_stack_RGBclr_CS6.pdf | TO: C:\Drive_Organizer\PDF_Files\ghostscriptR_stack_RGBclr_CS6_1.pdf
+2026-11-24 21:27:55,857 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win64\ghostscript\doc\colormanage\figures\Object_Color.pdf | TO: C:\Drive_Organizer\PDF_Files\Object_Color_1.pdf
+2026-11-24 21:27:55,857 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win64\ghostscript\doc\colormanage\figures\proof_link.pdf | TO: C:\Drive_Organizer\PDF_Files\proof_link_1.pdf
+2026-11-24 21:27:55,862 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win64\ghostscript\doc\colormanage\figures\source_intent.pdf | TO: C:\Drive_Organizer\PDF_Files\source_intent_1.pdf
+2026-11-24 21:27:55,864 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win64\ghostscript\doc\colormanage\figures\source_profile.pdf | TO: C:\Drive_Organizer\PDF_Files\source_profile_1.pdf
+2026-11-24 21:27:55,864 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win64\ghostscript\doc\colormanage\figures\text_graph_image_cmyk_rgb.pdf | TO: C:\Drive_Organizer\PDF_Files\text_graph_image_cmyk_rgb_2.pdf
+2026-11-24 21:27:55,864 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win64\ghostscript\doc\language-bindings\gs-language-bindings.pdf | TO: C:\Drive_Organizer\PDF_Files\gs-language-bindings_1.pdf
+2026-11-24 21:27:55,864 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win64\ghostscript\doc\pclxps\ghostpdl.pdf | TO: C:\Drive_Organizer\PDF_Files\ghostpdl_1.pdf
+2026-11-24 21:27:55,872 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win64\ghostscript\examples\annots.pdf | TO: C:\Drive_Organizer\PDF_Files\annots_1.pdf
+2026-11-24 21:27:55,872 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win64\ghostscript\examples\text_graphic_image.pdf | TO: C:\Drive_Organizer\PDF_Files\text_graphic_image_1.pdf
+2026-11-24 21:27:55,872 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Local\lightning-services\php-8.2.29+0\bin\win64\ghostscript\examples\text_graph_image_cmyk_rgb.pdf | TO: C:\Drive_Organizer\PDF_Files\text_graph_image_cmyk_rgb_3.pdf
+2026-11-24 21:27:55,880 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Mendeley Reference Manager\userfiles\2e4313d6-81d7-4217-283e-6b5e2ffdcc22.pdf | TO: C:\Drive_Organizer\PDF_Files\2e4313d6-81d7-4217-283e-6b5e2ffdcc22.pdf
+2026-11-24 21:27:55,880 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Microsoft\PowerPoint\Early%20detection%20of%20childhood%20cancers%20ver312611103266530536\Early%20detection%20of%20childhood%20cancers%20ver((Autorecovered-312611103261500531)).ppt | TO: C:\Drive_Organizer\PPT_Files\Early%20detection%20of%20childhood%20cancers%20ver((Autorecovered-312611103261500531)).ppt
+2026-11-24 21:27:55,880 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Microsoft\PowerPoint\Early%20detection%20of%20childhood%20cancers%20ver312611103266530536\Early%20detection%20of%20childhood%20cancers%20ver((Autorecovered-312611110388496550)).ppt | TO: C:\Drive_Organizer\PPT_Files\Early%20detection%20of%20childhood%20cancers%20ver((Autorecovered-312611110388496550)).ppt
+2026-11-24 21:27:55,888 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Microsoft\PowerPoint\Early%20detection%20of%20childhood%20cancers%20ver312611103266530536\Early%20detection%20of%20childhood%20cancers%20ver((Autorecovered-312611124008715534)).ppt | TO: C:\Drive_Organizer\PPT_Files\Early%20detection%20of%20childhood%20cancers%20ver((Autorecovered-312611124008715534)).ppt
+2026-11-24 21:27:55,888 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Microsoft\PowerPoint\Early%20detection%20of%20childhood%20cancers%20ver312611103266530536\Early%20detection%20of%20childhood%20cancers%20ver((Autorecovered-312611140909480235)).ppt | TO: C:\Drive_Organizer\PPT_Files\Early%20detection%20of%20childhood%20cancers%20ver((Autorecovered-312611140909480235)).ppt
+2026-11-24 21:27:55,888 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed\Word Document Building Blocks\1033\TM02835233[[fn=Text Sidebar (Annual Report Red and Black design)]].docx | TO: C:\Drive_Organizer\DOCX_Files\TM02835233[[fn=Text Sidebar (Annual Report Red and Black design)]].docx
+2026-11-24 21:27:55,896 - INFO - MOVED | FROM: C:\\Users\user\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed\Word Document Building Blocks\2057\TM02835233[[fn=Text Sidebar (Annual Report Red and Black design)]].docx | TO: C:\Drive_Organizer\DOCX_Files\TM02835233[[fn=Text Sidebar (Annual Report Red and Black design)]]_1.docx
+2026-11-24 21:27:55,898 - INFO - MOVED | FROM: C:\\Users\user\Desktop\1 PAGE REPORT OF THE CAPSTONE PROJECT.pdf | TO: C:\Drive_Organizer\PDF_Files\1 PAGE REPORT OF THE CAPSTONE PROJECT.pdf
+2026-11-24 21:27:55,898 - INFO - MOVED | FROM: C:\\Users\user\Desktop\AMALE VIVIAN THESIS.docx | TO: C:\Drive_Organizer\DOCX_Files\AMALE VIVIAN THESIS.docx
+2026-11-24 21:27:55,906 - INFO - MOVED | FROM: C:\\Users\user\Desktop\CV Nyamadi_Philip .pdf | TO: C:\Drive_Organizer\PDF_Files\CV Nyamadi_Philip .pdf
+2026-11-24 21:27:55,906 - INFO - MOVED | FROM: C:\\Users\user\Desktop\DOC-20261013-WA0109.docx | TO: C:\Drive_Organizer\DOCX_Files\DOC-20261013-WA0109.docx
+2026-11-24 21:27:55,906 - INFO - MOVED | FROM: C:\\Users\user\Desktop\L L L mcqs.pdf | TO: C:\Drive_Organizer\PDF_Files\L L L mcqs.pdf
+2026-11-24 21:27:55,913 - INFO - MOVED | FROM: C:\\Users\user\Desktop\MY THESIS rev 1.docx | TO: C:\Drive_Organizer\DOCX_Files\MY THESIS rev 1_1.docx
+2026-11-24 21:27:55,913 - INFO - MOVED | FROM: C:\\Users\user\Desktop\NYAMADI PHILIP  THESIS FINAL 1.0.docx | TO: C:\Drive_Organizer\DOCX_Files\NYAMADI PHILIP  THESIS FINAL 1.0.docx
+2026-11-24 21:27:55,913 - INFO - MOVED | FROM: C:\\Users\user\Desktop\NYAMADI PHILIP  UHAS202212250  PA THESIS FINAL.pdf | TO: C:\Drive_Organizer\PDF_Files\NYAMADI PHILIP  UHAS202212250  PA THESIS FINAL.pdf
+2026-11-24 21:27:55,921 - INFO - MOVED | FROM: C:\\Users\user\Desktop\NYAMADI PHILIP THESIS rev 1.0.docx | TO: C:\Drive_Organizer\DOCX_Files\NYAMADI PHILIP THESIS rev 1.0.docx
+2026-11-24 21:27:55,921 - INFO - MOVED | FROM: C:\\Users\user\Desktop\THE LIKELY MDC HORN SCHEME.pdf | TO: C:\Drive_Organizer\PDF_Files\THE LIKELY MDC HORN SCHEME.pdf
+2026-11-24 21:27:55,921 - INFO - MOVED | FROM: C:\\Users\user\Desktop\UHAS _ Application Forms Preview.pdf | TO: C:\Drive_Organizer\PDF_Files\UHAS _ Application Forms Preview.pdf
+2026-11-24 21:27:55,921 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$ SCHOOLS.docx | TO: C:\Drive_Organizer\DOCX_Files\~$ SCHOOLS.docx
+2026-11-24 21:27:55,929 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$ THESIS rev 1.docx | TO: C:\Drive_Organizer\DOCX_Files\~$ THESIS rev 1_1.docx
+2026-11-24 21:27:55,929 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$1.docx | TO: C:\Drive_Organizer\DOCX_Files\~$1.docx
+2026-11-24 21:27:55,929 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$afts 2.docx | TO: C:\Drive_Organizer\DOCX_Files\~$afts 2.docx
+2026-11-24 21:27:55,937 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$AMADI      PHILIP - legend Autumn.docx | TO: C:\Drive_Organizer\DOCX_Files\~$AMADI      PHILIP - legend Autumn.docx
+2026-11-24 21:27:55,937 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$cision 1.docx | TO: C:\Drive_Organizer\DOCX_Files\~$cision 1.docx
+2026-11-24 21:27:55,937 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$come Statement.docx | TO: C:\Drive_Organizer\DOCX_Files\~$come Statement.docx
+2026-11-24 21:27:55,945 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$essay.docx | TO: C:\Drive_Organizer\DOCX_Files\~$essay.docx
+2026-11-24 21:27:55,945 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$glish language test waiver.docx | TO: C:\Drive_Organizer\DOCX_Files\~$glish language test waiver.docx
+2026-11-24 21:27:55,945 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$l n gas schorlarship essay.docx | TO: C:\Drive_Organizer\DOCX_Files\~$l n gas schorlarship essay.docx
+2026-11-24 21:27:55,945 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$M FINANCIAL CONSTRAINTS.docx | TO: C:\Drive_Organizer\DOCX_Files\~$M FINANCIAL CONSTRAINTS.docx
+2026-11-24 21:27:55,945 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$mattZoddfinalll.pptx | TO: C:\Drive_Organizer\PPT_Files\~$mattZoddfinalll.pptx
+2026-11-24 21:27:55,945 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$MICROORGANISMS COMMONLY CAUSING EYE INFECTIONS.pptx | TO: C:\Drive_Organizer\PPT_Files\~$MICROORGANISMS COMMONLY CAUSING EYE INFECTIONS.pptx
+2026-11-24 21:27:55,945 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$MICROORGANISMS COMMONLY CAUSING PNEUMONIA.pptx | TO: C:\Drive_Organizer\PPT_Files\~$MICROORGANISMS COMMONLY CAUSING PNEUMONIA.pptx
+2026-11-24 21:27:55,945 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$pication letter.............docx | TO: C:\Drive_Organizer\DOCX_Files\~$pication letter.............docx
+2026-11-24 21:27:55,961 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$rist application.docx | TO: C:\Drive_Organizer\DOCX_Files\~$rist application.docx
+2026-11-24 21:27:55,961 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$say prompts.docx | TO: C:\Drive_Organizer\DOCX_Files\~$say prompts.docx
+2026-11-24 21:27:55,961 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$SOKA 1.docx | TO: C:\Drive_Organizer\DOCX_Files\~$SOKA 1.docx
+2026-11-24 21:27:55,961 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$tps_uhas.os-WPS Office.docx | TO: C:\Drive_Organizer\DOCX_Files\~$tps_uhas.os-WPS Office.docx
+2026-11-24 21:27:55,961 - INFO - MOVED | FROM: C:\\Users\user\Desktop\~$ygui[.docx | TO: C:\Drive_Organizer\DOCX_Files\~$ygui[.docx
+2026-11-24 21:27:55,961 - INFO - MOVED | FROM: C:\\Users\user\Desktop\AZILOO\BIOSTAT  BOOOK (DAVID ADEDIA).pdf | TO: C:\Drive_Organizer\PDF_Files\BIOSTAT  BOOOK (DAVID ADEDIA).pdf
+2026-11-24 21:27:55,976 - INFO - MOVED | FROM: C:\\Users\user\Desktop\AZILOO\CARDIO.pdf | TO: C:\Drive_Organizer\PDF_Files\CARDIO.pdf
+2026-11-24 21:27:55,976 - INFO - MOVED | FROM: C:\\Users\user\Desktop\AZILOO\JURIST RESEACH PROPOSAL.docx | TO: C:\Drive_Organizer\DOCX_Files\JURIST RESEACH PROPOSAL.docx
+2026-11-24 21:27:55,976 - INFO - MOVED | FROM: C:\\Users\user\Desktop\AZILOO\pasco.pdf | TO: C:\Drive_Organizer\PDF_Files\pasco.pdf
+2026-11-24 21:27:55,976 - INFO - MOVED | FROM: C:\\Users\user\Desktop\AZILOO\PROOF OF DEATH.pdf | TO: C:\Drive_Organizer\PDF_Files\PROOF OF DEATH.pdf
+2026-11-24 21:27:55,976 - INFO - MOVED | FROM: C:\\Users\user\Desktop\AZILOO\WR.pdf | TO: C:\Drive_Organizer\PDF_Files\WR.pdf
+2026-11-24 21:27:55,976 - INFO - MOVED | FROM: C:\\Users\user\Desktop\COURSE CATALOUGE\CANVA DESIGN WITH SMARTPHONE.docx | TO: C:\Drive_Organizer\DOCX_Files\CANVA DESIGN WITH SMARTPHONE.docx
+2026-11-24 21:27:55,976 - INFO - MOVED | FROM: C:\\Users\user\Desktop\COURSE CATALOUGE\CRYPTO COURSE.docx | TO: C:\Drive_Organizer\DOCX_Files\CRYPTO COURSE.docx
+2026-11-24 21:27:55,992 - INFO - MOVED | FROM: C:\\Users\user\Desktop\COURSE CATALOUGE\MOBILE APP DESIGN IN FIGMA.docx | TO: C:\Drive_Organizer\DOCX_Files\MOBILE APP DESIGN IN FIGMA.docx
+2026-11-24 21:27:55,992 - INFO - MOVED | FROM: C:\\Users\user\Desktop\COURSE CATALOUGE\UPWORK COURSE.docx | TO: C:\Drive_Organizer\DOCX_Files\UPWORK COURSE.docx
+2026-11-24 21:27:55,992 - INFO - MOVED | FROM: C:\\Users\user\Desktop\COURSE CATALOUGE\VIBE CODING.docx | TO: C:\Drive_Organizer\DOCX_Files\VIBE CODING.docx
+2026-11-24 21:27:55,992 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\A TRIBUTE BY DORIS NYAMADI.docx | TO: C:\Drive_Organizer\DOCX_Files\A TRIBUTE BY DORIS NYAMADI.docx
+2026-11-24 21:27:55,992 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\A tribute by nephews and nieces.docx | TO: C:\Drive_Organizer\DOCX_Files\A tribute by nephews and nieces.docx
+2026-11-24 21:27:55,992 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\A TRIBUTE BY NYAMADI PHILIP.docx | TO: C:\Drive_Organizer\DOCX_Files\A TRIBUTE BY NYAMADI PHILIP.docx
+2026-11-24 21:27:56,008 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\BELINDA_OKESIE_COMBINED_WORK_1&5[1].docx | TO: C:\Drive_Organizer\DOCX_Files\BELINDA_OKESIE_COMBINED_WORK_1&5[1].docx
+2026-11-24 21:27:56,008 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\BIOLOGY TEACHER RECOMMENDATION-ed.pdf | TO: C:\Drive_Organizer\PDF_Files\BIOLOGY TEACHER RECOMMENDATION-ed.pdf
+2026-11-24 21:27:56,008 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\Birth cert.pdf | TO: C:\Drive_Organizer\PDF_Files\Birth cert.pdf
+2026-11-24 21:27:56,008 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\CENTRAL   UNIVERSITY COLLEGE.docx | TO: C:\Drive_Organizer\DOCX_Files\CENTRAL   UNIVERSITY COLLEGE.docx
+2026-11-24 21:27:56,008 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\CLOCHEY FOUN.docx | TO: C:\Drive_Organizer\DOCX_Files\CLOCHEY FOUN.docx
+2026-11-24 21:27:56,008 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\CLOOCHEY VIDEO ESSAY.docx | TO: C:\Drive_Organizer\DOCX_Files\CLOOCHEY VIDEO ESSAY.docx
+2026-11-24 21:27:56,008 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\COUNSELOR RECOMMENDATION1.pdf | TO: C:\Drive_Organizer\PDF_Files\COUNSELOR RECOMMENDATION1.pdf
+2026-11-24 21:27:56,023 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\datascience with R.pdf | TO: C:\Drive_Organizer\PDF_Files\datascience with R.pdf
+2026-11-24 21:27:56,023 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\ESSAY NUGS.pdf | TO: C:\Drive_Organizer\PDF_Files\ESSAY NUGS.pdf
+2026-11-24 21:27:56,023 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\GHANA-STG-2017-1.pdf | TO: C:\Drive_Organizer\PDF_Files\GHANA-STG-2017-1.pdf
+2026-11-24 21:27:56,023 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\Gp year.docx | TO: C:\Drive_Organizer\DOCX_Files\Gp year.docx
+2026-11-24 21:27:56,023 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\HEALTH PROMOTION ASSIGNMENTS.docx | TO: C:\Drive_Organizer\DOCX_Files\HEALTH PROMOTION ASSIGNMENTS.docx
+2026-11-24 21:27:56,023 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\HONOUR 1.pdf | TO: C:\Drive_Organizer\PDF_Files\HONOUR 1.pdf
+2026-11-24 21:27:56,023 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\HONOUR 2.pdf | TO: C:\Drive_Organizer\PDF_Files\HONOUR 2.pdf
+2026-11-24 21:27:56,039 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\JAVASCRIPT.pdf | TO: C:\Drive_Organizer\PDF_Files\JAVASCRIPT.pdf
+2026-11-24 21:27:56,039 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\JURIST APPLICATION LETTER.docx | TO: C:\Drive_Organizer\DOCX_Files\JURIST APPLICATION LETTER.docx
+2026-11-24 21:27:56,039 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\LETTER OF FINANCIAL STATUS VERIFICATION.pdf | TO: C:\Drive_Organizer\PDF_Files\LETTER OF FINANCIAL STATUS VERIFICATION.pdf
+2026-11-24 21:27:56,039 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\NATIONAL ID CARD.pdf | TO: C:\Drive_Organizer\PDF_Files\NATIONAL ID CARD.pdf
+2026-11-24 21:27:56,039 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\OFFICIAL SCHOOL FEE RECEIPT.pdf | TO: C:\Drive_Organizer\PDF_Files\OFFICIAL SCHOOL FEE RECEIPT.pdf
+2026-11-24 21:27:56,039 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\PA12250 EDITED PROPOSAL.pdf | TO: C:\Drive_Organizer\PDF_Files\PA12250 EDITED PROPOSAL.pdf
+2026-11-24 21:27:56,039 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\PA12250-NYAMADI PHILIP_10_04_2026 REVISED 11.pdf | TO: C:\Drive_Organizer\PDF_Files\PA12250-NYAMADI PHILIP_10_04_2026 REVISED 11.pdf
+2026-11-24 21:27:56,055 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\PERSONAL ESSAY.docx | TO: C:\Drive_Organizer\DOCX_Files\PERSONAL ESSAY.docx
+2026-11-24 21:27:56,055 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\PRICING SHEET.pdf | TO: C:\Drive_Organizer\PDF_Files\PRICING SHEET.pdf
+2026-11-24 21:27:56,055 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\PROPOSAL TEMPLATE.pdf | TO: C:\Drive_Organizer\PDF_Files\PROPOSAL TEMPLATE.pdf
+2026-11-24 21:27:56,055 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\RECOMMENDATION LETTER 2.pdf | TO: C:\Drive_Organizer\PDF_Files\RECOMMENDATION LETTER 2.pdf
+2026-11-24 21:27:56,055 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\RECOMMENDATION LETTER.pdf | TO: C:\Drive_Organizer\PDF_Files\RECOMMENDATION LETTER.pdf
+2026-11-24 21:27:56,055 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\Request for consideration.docx | TO: C:\Drive_Organizer\DOCX_Files\Request for consideration.docx
+2026-11-24 21:27:56,070 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\SAMPLE INVOICE.pdf | TO: C:\Drive_Organizer\PDF_Files\SAMPLE INVOICE.pdf
+2026-11-24 21:27:56,071 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\SCHORLARSHIP ESSAY.pdf | TO: C:\Drive_Organizer\PDF_Files\SCHORLARSHIP ESSAY.pdf
+2026-11-24 21:27:56,071 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\STUDENT ID.pdf | TO: C:\Drive_Organizer\PDF_Files\STUDENT ID.pdf
+2026-11-24 21:27:56,071 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\TRANSCRIPT  RESULTS.pdf | TO: C:\Drive_Organizer\PDF_Files\TRANSCRIPT  RESULTS.pdf
+2026-11-24 21:27:56,079 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\UHAS202212250.docx | TO: C:\Drive_Organizer\DOCX_Files\UHAS202212250_1.docx
+2026-11-24 21:27:56,079 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\VD CONTENT ESSAY.docx | TO: C:\Drive_Organizer\DOCX_Files\VD CONTENT ESSAY.docx
+2026-11-24 21:27:56,079 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\VD CONTENT ESSAY.pdf | TO: C:\Drive_Organizer\PDF_Files\VD CONTENT ESSAY.pdf
+2026-11-24 21:27:56,079 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\~$OOCHEY VIDEO ESSAY.docx | TO: C:\Drive_Organizer\DOCX_Files\~$OOCHEY VIDEO ESSAY.docx
+2026-11-24 21:27:56,087 - INFO - MOVED | FROM: C:\\Users\user\Desktop\GSF\~$quest for consideration.docx | TO: C:\Drive_Organizer\DOCX_Files\~$quest for consideration.docx
+2026-11-24 21:27:56,087 - INFO - MOVED | FROM: C:\\Users\user\Desktop\MY RESEARCH DATA\FINAL_AI_TELEHEALTH_RESEARCH_THESIS-1.docx | TO: C:\Drive_Organizer\DOCX_Files\FINAL_AI_TELEHEALTH_RESEARCH_THESIS-1.docx
+2026-11-24 21:27:56,087 - INFO - MOVED | FROM: C:\\Users\user\Desktop\MY RESEARCH DATA\Format for presentation of dissertations.docx | TO: C:\Drive_Organizer\DOCX_Files\Format for presentation of dissertations.docx
+2026-11-24 21:27:56,087 - INFO - MOVED | FROM: C:\\Users\user\Desktop\MY RESEARCH DATA\MY THESIS EDIT- Kootso.docx | TO: C:\Drive_Organizer\DOCX_Files\MY THESIS EDIT- Kootso.docx
+2026-11-24 21:27:56,087 - INFO - MOVED | FROM: C:\\Users\user\Desktop\MY RESEARCH DATA\PA12250  REVISED PROPOSAL 1 (1).pdf | TO: C:\Drive_Organizer\PDF_Files\PA12250  REVISED PROPOSAL 1 (1).pdf
+2026-11-24 21:27:56,097 - INFO - MOVED | FROM: C:\\Users\user\Desktop\MY RESEARCH DATA\PA8104 Dissertation.pdf | TO: C:\Drive_Organizer\PDF_Files\PA8104 Dissertation.pdf
+2026-11-24 21:27:56,097 - INFO - MOVED | FROM: C:\\Users\user\Desktop\PRRRR\PA1483 PROJECT WORK PROPOSAL.pdf | TO: C:\Drive_Organizer\PDF_Files\PA1483 PROJECT WORK PROPOSAL.pdf
+2026-11-24 21:27:56,097 - INFO - MOVED | FROM: C:\\Users\user\Desktop\PRRRR\REPORTS OF MY DATA.pdf | TO: C:\Drive_Organizer\PDF_Files\REPORTS OF MY DATA.pdf
+2026-11-24 21:27:56,105 - INFO - MOVED | FROM: C:\\Users\user\Desktop\PRRRR\Safari.pdf | TO: C:\Drive_Organizer\PDF_Files\Safari.pdf
+2026-11-24 21:27:56,105 - INFO - MOVED | FROM: C:\\Users\user\Desktop\R PROGRAMMING PROJECTS\Assignment_Portfolio_1_to_8.docx | TO: C:\Drive_Organizer\DOCX_Files\Assignment_Portfolio_1_to_8.docx
+2026-11-24 21:27:56,105 - INFO - MOVED | FROM: C:\\Users\user\Desktop\R PROGRAMMING PROJECTS\Day1_R_Assignment.docx | TO: C:\Drive_Organizer\DOCX_Files\Day1_R_Assignment.docx
+2026-11-24 21:27:56,112 - INFO - MOVED | FROM: C:\\Users\user\Desktop\R PROGRAMMING PROJECTS\Day2_R_Assignment.docx | TO: C:\Drive_Organizer\DOCX_Files\Day2_R_Assignment.docx
+2026-11-24 21:27:56,112 - INFO - MOVED | FROM: C:\\Users\user\Desktop\R PROGRAMMING PROJECTS\PA12250 CORRECTED PROPOSAL.docx | TO: C:\Drive_Organizer\DOCX_Files\PA12250 CORRECTED PROPOSAL.docx
+2026-11-24 21:27:56,112 - INFO - MOVED | FROM: C:\\Users\user\Desktop\R PROGRAMMING PROJECTS\PA12250.docx | TO: C:\Drive_Organizer\DOCX_Files\PA12250.docx
+2026-11-24 21:27:56,112 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\ABSTRACT OF MY THESIS.docx | TO: C:\Drive_Organizer\DOCX_Files\ABSTRACT OF MY THESIS.docx
+2026-11-24 21:27:56,120 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\AI Telehealth Questionnaire Design.docx | TO: C:\Drive_Organizer\DOCX_Files\AI Telehealth Questionnaire Design.docx
+2026-11-24 21:27:56,120 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\AI_Telehealth_Questionnaire.docx | TO: C:\Drive_Organizer\DOCX_Files\AI_Telehealth_Questionnaire.docx
+2026-11-24 21:27:56,120 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\Appendix_III_Consent_Form_PlainEnglish_Nyamadi_Philip.docx | TO: C:\Drive_Organizer\DOCX_Files\Appendix_III_Consent_Form_PlainEnglish_Nyamadi_Philip.docx
+2026-11-24 21:27:56,129 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\BIO.docx | TO: C:\Drive_Organizer\DOCX_Files\BIO.docx
+2026-11-24 21:27:56,129 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\BIO.pdf | TO: C:\Drive_Organizer\PDF_Files\BIO.pdf
+2026-11-24 21:27:56,129 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\BUDGET &DESCRIPTION OF ITEMS.docx | TO: C:\Drive_Organizer\DOCX_Files\BUDGET &DESCRIPTION OF ITEMS.docx
+2026-11-24 21:27:56,129 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\BUDGET JUSTIFICATION.docx | TO: C:\Drive_Organizer\DOCX_Files\BUDGET JUSTIFICATION.docx
+2026-11-24 21:27:56,129 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\Budget_and_Justification.docx | TO: C:\Drive_Organizer\DOCX_Files\Budget_and_Justification.docx
+2026-11-24 21:27:56,137 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\Chapter1_Corrected.docx | TO: C:\Drive_Organizer\DOCX_Files\Chapter1_Corrected.docx
+2026-11-24 21:27:56,137 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\Chapter3_Analysis_Plan.docx | TO: C:\Drive_Organizer\DOCX_Files\Chapter3_Analysis_Plan.docx
+2026-11-24 21:27:56,137 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\Chapter3_Corrected.docx | TO: C:\Drive_Organizer\DOCX_Files\Chapter3_Corrected.docx
+2026-11-24 21:27:56,137 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\Chapter3_draft.docx | TO: C:\Drive_Organizer\DOCX_Files\Chapter3_draft.docx
+2026-11-24 21:27:56,145 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\Chapter3_Instrument_Section.docx | TO: C:\Drive_Organizer\DOCX_Files\Chapter3_Instrument_Section.docx
+2026-11-24 21:27:56,145 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\Chapter_2_Literature_Review_Final.docx | TO: C:\Drive_Organizer\DOCX_Files\Chapter_2_Literature_Review_Final.docx
+2026-11-24 21:27:56,153 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\Comments.docx | TO: C:\Drive_Organizer\DOCX_Files\Comments.docx
+2026-11-24 21:27:56,153 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\CONSENT FORM.docx | TO: C:\Drive_Organizer\DOCX_Files\CONSENT FORM.docx
+2026-11-24 21:27:56,153 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\Dissemination_Section.docx | TO: C:\Drive_Organizer\DOCX_Files\Dissemination_Section.docx
+2026-11-24 21:27:56,153 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\ETHICAL ISSUES FINAL.docx | TO: C:\Drive_Organizer\DOCX_Files\ETHICAL ISSUES FINAL.docx
+2026-11-24 21:27:56,153 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\Ethical_Issues_and_Consent_Form_DRAFT.docx | TO: C:\Drive_Organizer\DOCX_Files\Ethical_Issues_and_Consent_Form_DRAFT.docx
+2026-11-24 21:27:56,153 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\Ethics_Application_Nyamadi.docx | TO: C:\Drive_Organizer\DOCX_Files\Ethics_Application_Nyamadi.docx
+2026-11-24 21:27:56,153 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\Gantt_Chart_TIMELINE OF THE WORK.docx | TO: C:\Drive_Organizer\DOCX_Files\Gantt_Chart_TIMELINE OF THE WORK.docx
+2026-11-24 21:27:56,169 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\LETTER OF INTEREST.docx | TO: C:\Drive_Organizer\DOCX_Files\LETTER OF INTEREST.docx
+2026-11-24 21:27:56,169 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\List_of_Abbreviations.docx | TO: C:\Drive_Organizer\DOCX_Files\List_of_Abbreviations.docx
+2026-11-24 21:27:56,169 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\LOI.docx | TO: C:\Drive_Organizer\DOCX_Files\LOI.docx
+2026-11-24 21:27:56,169 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\LOI.pdf | TO: C:\Drive_Organizer\PDF_Files\LOI.pdf
+2026-11-24 21:27:56,169 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\NICOLE PROJECT ALL CHAPTERS Final.pdf | TO: C:\Drive_Organizer\PDF_Files\NICOLE PROJECT ALL CHAPTERS Final.pdf
+2026-11-24 21:27:56,169 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\PA12250-NYAMADI PHILIP.docx | TO: C:\Drive_Organizer\DOCX_Files\PA12250-NYAMADI PHILIP.docx
+2026-11-24 21:27:56,184 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\Questionnaire for my work.docx | TO: C:\Drive_Organizer\DOCX_Files\Questionnaire for my work.docx
+2026-11-24 21:27:56,184 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\RESEARCH PROJECT ALL COMBINE-DRAFT.docx | TO: C:\Drive_Organizer\DOCX_Files\RESEARCH PROJECT ALL COMBINE-DRAFT.docx
+2026-11-24 21:27:56,184 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\RESEARCH PROJECT ALL COMBINE.docx | TO: C:\Drive_Organizer\DOCX_Files\RESEARCH PROJECT ALL COMBINE.docx
+2026-11-24 21:27:56,184 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\RESEARCH PROPOSAL CHAPTER 1-3 DRAFT.docx | TO: C:\Drive_Organizer\DOCX_Files\RESEARCH PROPOSAL CHAPTER 1-3 DRAFT.docx
+2026-11-24 21:27:56,184 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\RESEARCH PROPOSAL.docx | TO: C:\Drive_Organizer\DOCX_Files\RESEARCH PROPOSAL.docx
+2026-11-24 21:27:56,184 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\Table_of_Contents_Final.docx | TO: C:\Drive_Organizer\DOCX_Files\Table_of_Contents_Final.docx
+2026-11-24 21:27:56,184 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\TELEHEALTH GRANT.docx | TO: C:\Drive_Organizer\DOCX_Files\TELEHEALTH GRANT.docx
+2026-11-24 21:27:56,200 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\TIMELINE OF THE STUDY.docx | TO: C:\Drive_Organizer\DOCX_Files\TIMELINE OF THE STUDY.docx
+2026-11-24 21:27:56,200 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\TOC_Abbreviations.docx | TO: C:\Drive_Organizer\DOCX_Files\TOC_Abbreviations.docx
+2026-11-24 21:27:56,200 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\UHAS_Group7_Suicide_Final-1.pptx | TO: C:\Drive_Organizer\PPT_Files\UHAS_Group7_Suicide_Final-1.pptx
+2026-11-24 21:27:56,200 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\~$SEARCH PROJECT ALL COMBINE-DRAFT.docx | TO: C:\Drive_Organizer\DOCX_Files\~$SEARCH PROJECT ALL COMBINE-DRAFT.docx
+2026-11-24 21:27:56,200 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RESEARCH WORK\~$SEARCH PROJECT ALL COMBINE.docx | TO: C:\Drive_Organizer\DOCX_Files\~$SEARCH PROJECT ALL COMBINE.docx
+2026-11-24 21:27:56,200 - INFO - MOVED | FROM: C:\\Users\user\Desktop\RStudio-2026.04.0-526\resources\app\bin\quarto\share\create\extensions\format-docx\_extensions\qstart-filesafename-qend\qstart-filesafename-qend.docx | TO: C:\Drive_Organizer\DOCX_Files\qstart-filesafename-qend.docx
+2026-11-24 21:27:56,200 - INFO - MOVED | FROM: C:\\Users\user\Desktop\TEXT EXTRACTION TOOL\input_pdfs\AI IN CYBERSECURITY.pdf | TO: C:\Drive_Organizer\PDF_Files\AI IN CYBERSECURITY.pdf
+2026-11-24 21:27:56,216 - INFO - MOVED | FROM: C:\\Users\user\Desktop\TEXT EXTRACTION TOOL\input_pdfs\LINUX FUNDAMENTALS.pdf | TO: C:\Drive_Organizer\PDF_Files\LINUX FUNDAMENTALS.pdf
+2026-11-24 21:27:56,216 - INFO - MOVED | FROM: C:\\Users\user\Desktop\TEXT EXTRACTION TOOL\venv\Lib\site-packages\docx\templates\default.docx | TO: C:\Drive_Organizer\DOCX_Files\default_2.docx
+2026-11-24 21:27:56,216 - INFO - MOVED | FROM: C:\\Users\user\Desktop\WORKFLOW\MY THESIS rev 1.docx | TO: C:\Drive_Organizer\DOCX_Files\MY THESIS rev 1_2.docx
+2026-11-24 21:27:56,216 - INFO - MOVED | FROM: C:\\Users\user\Desktop\WORKFLOW\NYAMADI PHILIP THESIS rev1.0.docx | TO: C:\Drive_Organizer\DOCX_Files\NYAMADI PHILIP THESIS rev1.0.docx
+2026-11-24 21:27:56,216 - INFO - MOVED | FROM: C:\\Users\user\Documents\(FSCERT)_Lehigh_Certification_of_Finances.pdf | TO: C:\Drive_Organizer\PDF_Files\(FSCERT)_Lehigh_Certification_of_Finances.pdf
+2026-11-24 21:27:56,216 - INFO - MOVED | FROM: C:\\Users\user\Documents\1. CHARACTERISTICS AND[1].pptx | TO: C:\Drive_Organizer\PPT_Files\1. CHARACTERISTICS AND[1].pptx
+2026-11-24 21:27:56,231 - INFO - MOVED | FROM: C:\\Users\user\Documents\2. CELLULAR ADAPTATION[1].pptx | TO: C:\Drive_Organizer\PPT_Files\2. CELLULAR ADAPTATION[1].pptx
+2026-11-24 21:27:56,231 - INFO - MOVED | FROM: C:\\Users\user\Documents\2024-2025 International Financial Aid Application (1) Copy.pdf | TO: C:\Drive_Organizer\PDF_Files\2024-2025 International Financial Aid Application (1) Copy.pdf
+2026-11-24 21:27:56,231 - INFO - MOVED | FROM: C:\\Users\user\Documents\2024-2025 International Financial Aid Application (1).pdf | TO: C:\Drive_Organizer\PDF_Files\2024-2025 International Financial Aid Application (1).pdf
+2026-11-24 21:27:56,231 - INFO - MOVED | FROM: C:\\Users\user\Documents\2024-25-ISFAA (1)-COPY - Copy.pdf | TO: C:\Drive_Organizer\PDF_Files\2024-25-ISFAA (1)-COPY - Copy.pdf
+2026-11-24 21:27:56,231 - INFO - MOVED | FROM: C:\\Users\user\Documents\2024-25-ISFAA (1)-COPY.pdf | TO: C:\Drive_Organizer\PDF_Files\2024-25-ISFAA (1)-COPY.pdf
+2026-11-24 21:27:56,231 - INFO - MOVED | FROM: C:\\Users\user\Documents\2425_Intl_Student_Fin_Aid_App (7).pdf | TO: C:\Drive_Organizer\PDF_Files\2425_Intl_Student_Fin_Aid_App (7).pdf
+2026-11-24 21:27:56,247 - INFO - MOVED | FROM: C:\\Users\user\Documents\ALL ABOUT ME.pptx | TO: C:\Drive_Organizer\PPT_Files\ALL ABOUT ME.pptx
+2026-11-24 21:27:56,247 - INFO - MOVED | FROM: C:\\Users\user\Documents\amale vivian  thesis54455454.docx | TO: C:\Drive_Organizer\DOCX_Files\amale vivian  thesis54455454.docx
+2026-11-24 21:27:56,247 - INFO - MOVED | FROM: C:\\Users\user\Documents\ASSIGNMENT_4[1].docx | TO: C:\Drive_Organizer\DOCX_Files\ASSIGNMENT_4[1].docx
+2026-11-24 21:27:56,247 - INFO - MOVED | FROM: C:\\Users\user\Documents\Barry university.docx | TO: C:\Drive_Organizer\DOCX_Files\Barry university.docx
+2026-11-24 21:27:56,247 - INFO - MOVED | FROM: C:\\Users\user\Documents\books_5453_0.pdf | TO: C:\Drive_Organizer\PDF_Files\books_5453_0.pdf
+2026-11-24 21:27:56,247 - INFO - MOVED | FROM: C:\\Users\user\Documents\CLASSICATIONS_OF_NEONATAL_JAUDICE.docx | TO: C:\Drive_Organizer\DOCX_Files\CLASSICATIONS_OF_NEONATAL_JAUDICE.docx
+2026-11-24 21:27:56,262 - INFO - MOVED | FROM: C:\\Users\user\Documents\course4.docx | TO: C:\Drive_Organizer\DOCX_Files\course4.docx
+2026-11-24 21:27:56,262 - INFO - MOVED | FROM: C:\\Users\user\Documents\Dear Reed College Admissions Committee.docx | TO: C:\Drive_Organizer\DOCX_Files\Dear Reed College Admissions Committee.docx
+2026-11-24 21:27:56,262 - INFO - MOVED | FROM: C:\\Users\user\Documents\Dear UTAG Scholarship Committee.docx | TO: C:\Drive_Organizer\DOCX_Files\Dear UTAG Scholarship Committee.docx
+2026-11-24 21:27:56,262 - INFO - MOVED | FROM: C:\\Users\user\Documents\Dear Williams College Admissions Committe1.docx | TO: C:\Drive_Organizer\DOCX_Files\Dear Williams College Admissions Committe1.docx
+2026-11-24 21:27:56,262 - INFO - MOVED | FROM: C:\\Users\user\Documents\Dear Williams College Admissions Committee.docx | TO: C:\Drive_Organizer\DOCX_Files\Dear Williams College Admissions Committee.docx
+2026-11-24 21:27:56,262 - INFO - MOVED | FROM: C:\\Users\user\Documents\DOC-20261009-WA0291.docx | TO: C:\Drive_Organizer\DOCX_Files\DOC-20261009-WA0291.docx
+2026-11-24 21:27:56,262 - INFO - MOVED | FROM: C:\\Users\user\Documents\DOC-20261012-WA0058.docx | TO: C:\Drive_Organizer\DOCX_Files\DOC-20261012-WA0058.docx
+2026-11-24 21:27:56,278 - INFO - MOVED | FROM: C:\\Users\user\Documents\Early detection of childhood cancers very final.pptx | TO: C:\Drive_Organizer\PPT_Files\Early detection of childhood cancers very final.pptx
+2026-11-24 21:27:56,278 - INFO - MOVED | FROM: C:\\Users\user\Documents\ESSAY PROMPTS FOR THE SCHORLARSHIP.pdf | TO: C:\Drive_Organizer\PDF_Files\ESSAY PROMPTS FOR THE SCHORLARSHIP.pdf
+2026-11-24 21:27:56,278 - INFO - MOVED | FROM: C:\\Users\user\Documents\FEES.pdf | TO: C:\Drive_Organizer\PDF_Files\FEES.pdf
+2026-11-24 21:27:56,285 - INFO - MOVED | FROM: C:\\Users\user\Documents\Feminism paper~HENRY AMEGAYIE (2).pdf | TO: C:\Drive_Organizer\PDF_Files\Feminism paper~HENRY AMEGAYIE (2).pdf
+2026-11-24 21:27:56,285 - INFO - MOVED | FROM: C:\\Users\user\Documents\final.pptx | TO: C:\Drive_Organizer\PPT_Files\final.pptx
+2026-11-24 21:27:56,285 - INFO - MOVED | FROM: C:\\Users\user\Documents\GES-New-JHS-Syllabus-ENGLISH-CCP-CURRICULUM-FOR-B7-10-ZERO-DRAFT.pdf | TO: C:\Drive_Organizer\PDF_Files\GES-New-JHS-Syllabus-ENGLISH-CCP-CURRICULUM-FOR-B7-10-ZERO-DRAFT.pdf
+2026-11-24 21:27:56,293 - INFO - MOVED | FROM: C:\\Users\user\Documents\GROUP__5B.docx | TO: C:\Drive_Organizer\DOCX_Files\GROUP__5B.docx
+2026-11-24 21:27:56,296 - INFO - MOVED | FROM: C:\\Users\user\Documents\How To_Week 4_compressed.pdf | TO: C:\Drive_Organizer\PDF_Files\How To_Week 4_compressed.pdf
+2026-11-24 21:27:56,296 - INFO - MOVED | FROM: C:\\Users\user\Documents\immunology.pdf | TO: C:\Drive_Organizer\PDF_Files\immunology.pdf
+2026-11-24 21:27:56,303 - INFO - MOVED | FROM: C:\\Users\user\Documents\In my coastal village.docx | TO: C:\Drive_Organizer\DOCX_Files\In my coastal village.docx
+2026-11-24 21:27:56,307 - INFO - MOVED | FROM: C:\\Users\user\Documents\In the vibrant heart of Accra.docx | TO: C:\Drive_Organizer\DOCX_Files\In the vibrant heart of Accra.docx
+2026-11-24 21:27:56,307 - INFO - MOVED | FROM: C:\\Users\user\Documents\Infections in the immunocompromised.pptx | TO: C:\Drive_Organizer\PPT_Files\Infections in the immunocompromised.pptx
+2026-11-24 21:27:56,314 - INFO - MOVED | FROM: C:\\Users\user\Documents\innocent[1].docx | TO: C:\Drive_Organizer\DOCX_Files\innocent[1].docx
+2026-11-24 21:27:56,314 - INFO - MOVED | FROM: C:\\Users\user\Documents\International_AoS (1) REWUUWUW.pdf | TO: C:\Drive_Organizer\PDF_Files\International_AoS (1) REWUUWUW.pdf
+2026-11-24 21:27:56,319 - INFO - MOVED | FROM: C:\\Users\user\Documents\International_AoS.pdf | TO: C:\Drive_Organizer\PDF_Files\International_AoS.pdf
+2026-11-24 21:27:56,320 - INFO - MOVED | FROM: C:\\Users\user\Documents\International_SoF.pdf | TO: C:\Drive_Organizer\PDF_Files\International_SoF.pdf
+2026-11-24 21:27:56,320 - INFO - MOVED | FROM: C:\\Users\user\Documents\ISA4FA_IACAC MINEEE.pdf | TO: C:\Drive_Organizer\PDF_Files\ISA4FA_IACAC MINEEE.pdf
+2026-11-24 21:27:56,320 - INFO - MOVED | FROM: C:\\Users\user\Documents\isfaa-23-24-fillable-bowdoin-college.pdf | TO: C:\Drive_Organizer\PDF_Files\isfaa-23-24-fillable-bowdoin-college.pdf
+2026-11-24 21:27:56,328 - INFO - MOVED | FROM: C:\\Users\user\Documents\JOY TO THE WORLD.docx | TO: C:\Drive_Organizer\DOCX_Files\JOY TO THE WORLD.docx
+2026-11-24 21:27:56,328 - INFO - MOVED | FROM: C:\\Users\user\Documents\JURIST.docx | TO: C:\Drive_Organizer\DOCX_Files\JURIST.docx
+2026-11-24 21:27:56,328 - INFO - MOVED | FROM: C:\\Users\user\Documents\KORBLAVI AZASU.docx | TO: C:\Drive_Organizer\DOCX_Files\KORBLAVI AZASU.docx
+2026-11-24 21:27:56,336 - INFO - MOVED | FROM: C:\\Users\user\Documents\Kumar and Clark_s Clinical Medicine 8th Edition.pdf | TO: C:\Drive_Organizer\PDF_Files\Kumar and Clark_s Clinical Medicine 8th Edition.pdf
+2026-11-24 21:27:56,336 - INFO - MOVED | FROM: C:\\Users\user\Documents\Letter-rhodes college.pdf | TO: C:\Drive_Organizer\PDF_Files\Letter-rhodes college.pdf
+2026-11-24 21:27:56,345 - INFO - MOVED | FROM: C:\\Users\user\Documents\loci.docx | TO: C:\Drive_Organizer\DOCX_Files\loci.docx
+2026-11-24 21:27:56,345 - INFO - MOVED | FROM: C:\\Users\user\Documents\LOI Nyamadi Philip.pdf | TO: C:\Drive_Organizer\PDF_Files\LOI Nyamadi Philip.pdf
+2026-11-24 21:27:56,345 - INFO - MOVED | FROM: C:\\Users\user\Documents\MICRO. B GROUP ASSIGN.docx | TO: C:\Drive_Organizer\DOCX_Files\MICRO. B GROUP ASSIGN.docx
+2026-11-24 21:27:56,345 - INFO - MOVED | FROM: C:\\Users\user\Documents\Microsoft Word - 2024_25 International Student Financial Aid Application.docx.pdf | TO: C:\Drive_Organizer\PDF_Files\Microsoft Word - 2024_25 International Student Financial Aid Application.docx.pdf
+2026-11-24 21:27:56,354 - INFO - MOVED | FROM: C:\\Users\user\Documents\MY THESIS EDIT- Kootso_formated rev 2.0.docx | TO: C:\Drive_Organizer\DOCX_Files\MY THESIS EDIT- Kootso_formated rev 2.0.docx
+2026-11-24 21:27:56,354 - INFO - MOVED | FROM: C:\\Users\user\Documents\MY THESIS EDIT- Kootso_formated rev 2.00.docx | TO: C:\Drive_Organizer\DOCX_Files\MY THESIS EDIT- Kootso_formated rev 2.00.docx
+2026-11-24 21:27:56,354 - INFO - MOVED | FROM: C:\\Users\user\Documents\NEONATAL JAUNDICE[1].pptx | TO: C:\Drive_Organizer\PPT_Files\NEONATAL JAUNDICE[1].pptx
+2026-11-24 21:27:56,363 - INFO - MOVED | FROM: C:\\Users\user\Documents\Netter's Clinical Anatomy.pdf | TO: C:\Drive_Organizer\PDF_Files\Netter's Clinical Anatomy.pdf
+2026-11-24 21:27:56,363 - INFO - MOVED | FROM: C:\\Users\user\Documents\NYAMADI PHILIP  THESIS FINAL.docx | TO: C:\Drive_Organizer\DOCX_Files\NYAMADI PHILIP  THESIS FINAL.docx
+2026-11-24 21:27:56,363 - INFO - MOVED | FROM: C:\\Users\user\Documents\NYAMADI PHILIP  THESIS REV3.docx | TO: C:\Drive_Organizer\DOCX_Files\NYAMADI PHILIP  THESIS REV3.docx
+2026-11-24 21:27:56,363 - INFO - MOVED | FROM: C:\\Users\user\Documents\NYAMADI PHILIP THESIS rev 2.0.docx | TO: C:\Drive_Organizer\DOCX_Files\NYAMADI PHILIP THESIS rev 2.0.docx
+2026-11-24 21:27:56,372 - INFO - MOVED | FROM: C:\\Users\user\Documents\NYAMADI PHILIP THESIS rev1.0.docx | TO: C:\Drive_Organizer\DOCX_Files\NYAMADI PHILIP THESIS rev1.0_1.docx
+2026-11-24 21:27:56,372 - INFO - MOVED | FROM: C:\\Users\user\Documents\PA_L300_Lectures[1].docx | TO: C:\Drive_Organizer\DOCX_Files\PA_L300_Lectures[1].docx
+2026-11-24 21:27:56,378 - INFO - MOVED | FROM: C:\\Users\user\Documents\Pearl PASSWORD.docx | TO: C:\Drive_Organizer\DOCX_Files\Pearl PASSWORD.docx
+2026-11-24 21:27:56,378 - INFO - MOVED | FROM: C:\\Users\user\Documents\REC1.docx | TO: C:\Drive_Organizer\DOCX_Files\REC1.docx
+2026-11-24 21:27:56,384 - INFO - MOVED | FROM: C:\\Users\user\Documents\RECEIPT.pdf | TO: C:\Drive_Organizer\PDF_Files\RECEIPT.pdf
+2026-11-24 21:27:56,384 - INFO - MOVED | FROM: C:\\Users\user\Documents\RECOMMENDATION LETTER-2025.docx | TO: C:\Drive_Organizer\DOCX_Files\RECOMMENDATION LETTER-2025.docx
+2026-11-24 21:27:56,384 - INFO - MOVED | FROM: C:\\Users\user\Documents\request note....docx | TO: C:\Drive_Organizer\DOCX_Files\request note....docx
+2026-11-24 21:27:56,384 - INFO - MOVED | FROM: C:\\Users\user\Documents\Rita's Mastery of Clinical Examinations (1) (4).pdf | TO: C:\Drive_Organizer\PDF_Files\Rita's Mastery of Clinical Examinations (1) (4).pdf
+2026-11-24 21:27:56,384 - INFO - MOVED | FROM: C:\\Users\user\Documents\RIT_International_Financial_Aid_Application_Form.pdf | TO: C:\Drive_Organizer\PDF_Files\RIT_International_Financial_Aid_Application_Form.pdf
+2026-11-24 21:27:56,396 - INFO - MOVED | FROM: C:\\Users\user\Documents\Screenshot 2024-01-30 at 120043 AM.pdf | TO: C:\Drive_Organizer\PDF_Files\Screenshot 2024-01-30 at 120043 AM.pdf
+2026-11-24 21:27:56,396 - INFO - MOVED | FROM: C:\\Users\user\Documents\SMPA325 - FHP_lecture 5&6[1].pptx | TO: C:\Drive_Organizer\PPT_Files\SMPA325 - FHP_lecture 5&6[1].pptx
+2026-11-24 21:27:56,396 - INFO - MOVED | FROM: C:\\Users\user\Documents\The journey towards my university education was filled with obstacles and challenges.docx | TO: C:\Drive_Organizer\DOCX_Files\The journey towards my university education was filled with obstacles and challenges.docx
+2026-11-24 21:27:56,405 - INFO - MOVED | FROM: C:\\Users\user\Documents\The questions on this page are being asked by Brown University.docx | TO: C:\Drive_Organizer\DOCX_Files\The questions on this page are being asked by Brown University.docx
+2026-11-24 21:27:56,405 - INFO - MOVED | FROM: C:\\Users\user\Documents\TRANSCRIPTS.pdf | TO: C:\Drive_Organizer\PDF_Files\TRANSCRIPTS.pdf
+2026-11-24 21:27:56,412 - INFO - MOVED | FROM: C:\\Users\user\Documents\UHAS-feeschedule-2324_GH-Provisional.pdf | TO: C:\Drive_Organizer\PDF_Files\UHAS-feeschedule-2324_GH-Provisional.pdf
+2026-11-24 21:27:56,415 - INFO - MOVED | FROM: C:\\Users\user\Documents\URINARY_TRACT_INFECTIONS_AND_INFESTATION[1].pptx | TO: C:\Drive_Organizer\PPT_Files\URINARY_TRACT_INFECTIONS_AND_INFESTATION[1].pptx
+2026-11-24 21:27:56,415 - INFO - MOVED | FROM: C:\\Users\user\Documents\VENUNYE.docx | TO: C:\Drive_Organizer\DOCX_Files\VENUNYE.docx
+2026-11-24 21:27:56,415 - INFO - MOVED | FROM: C:\\Users\user\Documents\VISSIONARY NORMAN SCHOR.docx | TO: C:\Drive_Organizer\DOCX_Files\VISSIONARY NORMAN SCHOR.docx
+2026-11-24 21:27:56,415 - INFO - MOVED | FROM: C:\\Users\user\Documents\Web analytics _ Philipnyamadi99@gmail.com's Account _ Cloudflare.pdf | TO: C:\Drive_Organizer\PDF_Files\Web analytics _ Philipnyamadi99@gmail.com's Account _ Cloudflare.pdf
+2026-11-24 21:27:56,415 - INFO - MOVED | FROM: C:\\Users\user\Documents\yh.docx | TO: C:\Drive_Organizer\DOCX_Files\yh.docx
+2026-11-24 21:27:56,415 - INFO - MOVED | FROM: C:\\Users\user\Documents\~$APTER 3.docx | TO: C:\Drive_Organizer\DOCX_Files\~$APTER 3.docx
+2026-11-24 21:27:56,430 - INFO - MOVED | FROM: C:\\Users\user\Documents\~$SEARCH TOPIC 2.docx | TO: C:\Drive_Organizer\DOCX_Files\~$SEARCH TOPIC 2.docx
+2026-11-24 21:27:56,432 - INFO - MOVED | FROM: C:\\Users\user\Documents\~$yuk.docx | TO: C:\Drive_Organizer\DOCX_Files\~$yuk.docx
+2026-11-24 21:27:56,432 - INFO - MOVED | FROM: C:\\Users\user\Documents\~$_L300_Lectures[1].docx | TO: C:\Drive_Organizer\DOCX_Files\~$_L300_Lectures[1].docx
+2026-11-24 21:27:56,432 - INFO - MOVED | FROM: C:\\Users\user\Downloads\1784855637978.pdf | TO: C:\Drive_Organizer\PDF_Files\1784855637978.pdf
+2026-11-24 21:27:56,432 - INFO - MOVED | FROM: C:\\Users\user\Downloads\298.pdf | TO: C:\Drive_Organizer\PDF_Files\298.pdf
+2026-11-24 21:27:56,432 - INFO - MOVED | FROM: C:\\Users\user\Downloads\ABOKO MD.pdf | TO: C:\Drive_Organizer\PDF_Files\ABOKO MD.pdf
+2026-11-24 21:27:56,432 - INFO - MOVED | FROM: C:\\Users\user\Downloads\abstract-41106815.docx | TO: C:\Drive_Organizer\DOCX_Files\abstract-41106815.docx
+2026-11-24 21:27:56,432 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Addressing the Digital Consumption-Competence Gap in Ghanaian Senior High Schools.docx | TO: C:\Drive_Organizer\DOCX_Files\Addressing the Digital Consumption-Competence Gap in Ghanaian Senior High Schools.docx
+2026-11-24 21:27:56,448 - INFO - MOVED | FROM: C:\\Users\user\Downloads\AI FOR CYBERSECURITY COURSE 2.pdf | TO: C:\Drive_Organizer\PDF_Files\AI FOR CYBERSECURITY COURSE 2.pdf
+2026-11-24 21:27:56,448 - INFO - MOVED | FROM: C:\\Users\user\Downloads\AI TOOLS ACCOUNTABILITY REPORT.pdf | TO: C:\Drive_Organizer\PDF_Files\AI TOOLS ACCOUNTABILITY REPORT.pdf
+2026-11-24 21:27:56,448 - INFO - MOVED | FROM: C:\\Users\user\Downloads\AI_Telehealth_Questionnaire_Review.docx | TO: C:\Drive_Organizer\DOCX_Files\AI_Telehealth_Questionnaire_Review.docx
+2026-11-24 21:27:56,448 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Artificial Intelligence in Chronic Disease Management for Aging Populations  A Systematic Review of Machine Learning and NLP Applications.pdf | TO: C:\Drive_Organizer\PDF_Files\Artificial Intelligence in Chronic Disease Management for Aging Populations  A Systematic Review of Machine Learning and NLP Applications.pdf
+2026-11-24 21:27:56,462 - INFO - MOVED | FROM: C:\\Users\user\Downloads\battery_and_solar_formatted (1).docx | TO: C:\Drive_Organizer\DOCX_Files\battery_and_solar_formatted (1).docx
+2026-11-24 21:27:56,462 - INFO - MOVED | FROM: C:\\Users\user\Downloads\battery_and_solar_formatted.docx | TO: C:\Drive_Organizer\DOCX_Files\battery_and_solar_formatted.docx
+2026-11-24 21:27:56,462 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Belad_Certificate_BELAD_26_5975.pdf | TO: C:\Drive_Organizer\PDF_Files\Belad_Certificate_BELAD_26_5975.pdf
+2026-11-24 21:27:56,470 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Bibliometric Inventory - SYW.docx | TO: C:\Drive_Organizer\DOCX_Files\Bibliometric Inventory - SYW.docx
+2026-11-24 21:27:56,470 - INFO - MOVED | FROM: C:\\Users\user\Downloads\CamScanner 08-09-2025 11.37.pdf | TO: C:\Drive_Organizer\PDF_Files\CamScanner 08-09-2025 11.37.pdf
+2026-11-24 21:27:56,477 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Certificate-IPSR001-TH.pdf | TO: C:\Drive_Organizer\PDF_Files\Certificate-IPSR001-TH.pdf
+2026-11-24 21:27:56,481 - INFO - MOVED | FROM: C:\\Users\user\Downloads\CH.docx | TO: C:\Drive_Organizer\DOCX_Files\CH.docx
+2026-11-24 21:27:56,481 - INFO - MOVED | FROM: C:\\Users\user\Downloads\CHA.docx | TO: C:\Drive_Organizer\DOCX_Files\CHA.docx
+2026-11-24 21:27:56,481 - INFO - MOVED | FROM: C:\\Users\user\Downloads\CHAPTER 3 INSTRUCTIONS.docx | TO: C:\Drive_Organizer\DOCX_Files\CHAPTER 3 INSTRUCTIONS.docx
+2026-11-24 21:27:56,481 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Clerking outline-modified (1).docx | TO: C:\Drive_Organizer\DOCX_Files\Clerking outline-modified (1).docx
+2026-11-24 21:27:56,481 - INFO - MOVED | FROM: C:\\Users\user\Downloads\CLINICAL_SURGERY_TUTORIAL_MANUAL_by_UDEFIAGBON_FECAMDS_DELSU.pdf | TO: C:\Drive_Organizer\PDF_Files\CLINICAL_SURGERY_TUTORIAL_MANUAL_by_UDEFIAGBON_FECAMDS_DELSU.pdf
+2026-11-24 21:27:56,497 - INFO - MOVED | FROM: C:\\Users\user\Downloads\COMPILED IAs.........pdf | TO: C:\Drive_Organizer\PDF_Files\COMPILED IAs.........pdf
+2026-11-24 21:27:56,497 - INFO - MOVED | FROM: C:\\Users\user\Downloads\courses26741.pdf | TO: C:\Drive_Organizer\PDF_Files\courses26741.pdf
+2026-11-24 21:27:56,497 - INFO - MOVED | FROM: C:\\Users\user\Downloads\CVS_Clinic.pdf | TO: C:\Drive_Organizer\PDF_Files\CVS_Clinic.pdf
+2026-11-24 21:27:56,505 - INFO - MOVED | FROM: C:\\Users\user\Downloads\De-Witte-Van-Daele-2017-Vlaamse-UTAUT-vragenlijsten.pdf | TO: C:\Drive_Organizer\PDF_Files\De-Witte-Van-Daele-2017-Vlaamse-UTAUT-vragenlijsten.pdf
+2026-11-24 21:27:56,505 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Developmental_assessment.pdf | TO: C:\Drive_Organizer\PDF_Files\Developmental_assessment.pdf
+2026-11-24 21:27:56,505 - INFO - MOVED | FROM: C:\\Users\user\Downloads\DOC-20221107-WA0014..pdf | TO: C:\Drive_Organizer\PDF_Files\DOC-20221107-WA0014..pdf
+2026-11-24 21:27:56,505 - INFO - MOVED | FROM: C:\\Users\user\Downloads\DOC-20260911-WA0076.docx | TO: C:\Drive_Organizer\DOCX_Files\DOC-20260911-WA0076.docx
+2026-11-24 21:27:56,513 - INFO - MOVED | FROM: C:\\Users\user\Downloads\DP900_Capstone_Simplified.docx | TO: C:\Drive_Organizer\DOCX_Files\DP900_Capstone_Simplified.docx
+2026-11-24 21:27:56,513 - INFO - MOVED | FROM: C:\\Users\user\Downloads\DR.DEL INTERNAL MEDICINE.pdf | TO: C:\Drive_Organizer\PDF_Files\DR.DEL INTERNAL MEDICINE.pdf
+2026-11-24 21:27:56,513 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Early detection of childhood cancers very final.pptx | TO: C:\Drive_Organizer\PPT_Files\Early detection of childhood cancers very final_1.pptx
+2026-11-24 21:27:56,521 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Early Detection of Childhood Cancers.pdf | TO: C:\Drive_Organizer\PDF_Files\Early Detection of Childhood Cancers.pdf
+2026-11-24 21:27:56,521 - INFO - MOVED | FROM: C:\\Users\user\Downloads\EarlyDetection_ChildhoodCancers_FINAL.pptx | TO: C:\Drive_Organizer\PPT_Files\EarlyDetection_ChildhoodCancers_FINAL.pptx
+2026-11-24 21:27:56,521 - INFO - MOVED | FROM: C:\\Users\user\Downloads\errrr.docx | TO: C:\Drive_Organizer\DOCX_Files\errrr.docx
+2026-11-24 21:27:56,528 - INFO - MOVED | FROM: C:\\Users\user\Downloads\ESSAY.pdf | TO: C:\Drive_Organizer\PDF_Files\ESSAY.pdf
+2026-11-24 21:27:56,528 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Executive Summary.docx | TO: C:\Drive_Organizer\DOCX_Files\Executive Summary.docx
+2026-11-24 21:27:56,528 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Fast lines for History taking OBGYN.pdf | TO: C:\Drive_Organizer\PDF_Files\Fast lines for History taking OBGYN.pdf
+2026-11-24 21:27:56,528 - INFO - MOVED | FROM: C:\\Users\user\Downloads\final-gen.obst.sheet.pdf | TO: C:\Drive_Organizer\PDF_Files\final-gen.obst.sheet.pdf
+2026-11-24 21:27:56,528 - INFO - MOVED | FROM: C:\\Users\user\Downloads\FINAL_AI_TELEHEALTH_RESEARCH_THESIS-2.docx | TO: C:\Drive_Organizer\DOCX_Files\FINAL_AI_TELEHEALTH_RESEARCH_THESIS-2.docx
+2026-11-24 21:27:56,536 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Final_Questionnaire.docx | TO: C:\Drive_Organizer\DOCX_Files\Final_Questionnaire.docx
+2026-11-24 21:27:56,536 - INFO - MOVED | FROM: C:\\Users\user\Downloads\FIRST MAPPED....docx | TO: C:\Drive_Organizer\DOCX_Files\FIRST MAPPED....docx
+2026-11-24 21:27:56,536 - INFO - MOVED | FROM: C:\\Users\user\Downloads\FO SEFENU.docx | TO: C:\Drive_Organizer\DOCX_Files\FO SEFENU.docx
+2026-11-24 21:27:56,536 - INFO - MOVED | FROM: C:\\Users\user\Downloads\General_Examination.pdf | TO: C:\Drive_Organizer\PDF_Files\General_Examination.pdf
+2026-11-24 21:27:56,536 - INFO - MOVED | FROM: C:\\Users\user\Downloads\GI bleeding.pdf | TO: C:\Drive_Organizer\PDF_Files\GI bleeding.pdf
+2026-11-24 21:27:56,545 - INFO - MOVED | FROM: C:\\Users\user\Downloads\GIT.clinic_Dr.mhdbonowara.pdf | TO: C:\Drive_Organizer\PDF_Files\GIT.clinic_Dr.mhdbonowara.pdf
+2026-11-24 21:27:56,545 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Golden-Key-International-Honor-Society-Scholarships-2023.pdf | TO: C:\Drive_Organizer\PDF_Files\Golden-Key-International-Honor-Society-Scholarships-2023.pdf
+2026-11-24 21:27:56,545 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Grant Proposal Review_ AI Telehealth Ghana.docx | TO: C:\Drive_Organizer\DOCX_Files\Grant Proposal Review_ AI Telehealth Ghana.docx
+2026-11-24 21:27:56,545 - INFO - MOVED | FROM: C:\\Users\user\Downloads\healthcare-13-01060.docx | TO: C:\Drive_Organizer\DOCX_Files\healthcare-13-01060.docx
+2026-11-24 21:27:56,545 - INFO - MOVED | FROM: C:\\Users\user\Downloads\History taking in pediatrics (1).pdf | TO: C:\Drive_Organizer\PDF_Files\History taking in pediatrics (1).pdf
+2026-11-24 21:27:56,545 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Hospital_Database_Project.docx | TO: C:\Drive_Organizer\DOCX_Files\Hospital_Database_Project.docx
+2026-11-24 21:27:56,561 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Internal med 2022 with answers.pdf | TO: C:\Drive_Organizer\PDF_Files\Internal med 2022 with answers.pdf
+2026-11-24 21:27:56,561 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Internal Medicine Cases, Part 1.pdf | TO: C:\Drive_Organizer\PDF_Files\Internal Medicine Cases, Part 1.pdf
+2026-11-24 21:27:56,561 - INFO - MOVED | FROM: C:\\Users\user\Downloads\INTERNAL MEDICINE PAPER 2_240911_184209.pdf | TO: C:\Drive_Organizer\PDF_Files\INTERNAL MEDICINE PAPER 2_240911_184209.pdf
+2026-11-24 21:27:56,561 - INFO - MOVED | FROM: C:\\Users\user\Downloads\ISRGJAHSS4092024-re.pdf | TO: C:\Drive_Organizer\PDF_Files\ISRGJAHSS4092024-re.pdf
+2026-11-24 21:27:56,561 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Kpedze_SHS_Research_Questionnaire.docx | TO: C:\Drive_Organizer\DOCX_Files\Kpedze_SHS_Research_Questionnaire.docx
+2026-11-24 21:27:56,561 - INFO - MOVED | FROM: C:\\Users\user\Downloads\LIBRARY.pdf | TO: C:\Drive_Organizer\PDF_Files\LIBRARY.pdf
+2026-11-24 21:27:56,561 - INFO - MOVED | FROM: C:\\Users\user\Downloads\LOI Nyamadi Philip.docx | TO: C:\Drive_Organizer\DOCX_Files\LOI Nyamadi Philip.docx
+2026-11-24 21:27:56,561 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Machine learning.docx | TO: C:\Drive_Organizer\DOCX_Files\Machine learning.docx
+2026-11-24 21:27:56,576 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Marks' Basic Medical Biochemistry.pdf | TO: C:\Drive_Organizer\PDF_Files\Marks' Basic Medical Biochemistry.pdf
+2026-11-24 21:27:56,576 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Metered_Dose_Inhaler_Presentation[1].pdf | TO: C:\Drive_Organizer\PDF_Files\Metered_Dose_Inhaler_Presentation[1].pdf
+2026-11-24 21:27:56,576 - INFO - MOVED | FROM: C:\\Users\user\Downloads\mew-253-bruno (1).pdf | TO: C:\Drive_Organizer\PDF_Files\mew-253-bruno (1).pdf
+2026-11-24 21:27:56,576 - INFO - MOVED | FROM: C:\\Users\user\Downloads\mew-253-bruno.pdf | TO: C:\Drive_Organizer\PDF_Files\mew-253-bruno.pdf
+2026-11-24 21:27:56,576 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Microsoft Word - 2024_25 International Student Financial Aid Application.docx.pdf | TO: C:\Drive_Organizer\PDF_Files\Microsoft Word - 2024_25 International Student Financial Aid Application.docx_1.pdf
+2026-11-24 21:27:56,576 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Moore Essential Clinical Anatomy (1).pdf | TO: C:\Drive_Organizer\PDF_Files\Moore Essential Clinical Anatomy (1).pdf
+2026-11-24 21:27:56,576 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Moore Essential Clinical Anatomy.pdf | TO: C:\Drive_Organizer\PDF_Files\Moore Essential Clinical Anatomy.pdf
+2026-11-24 21:27:56,576 - INFO - MOVED | FROM: C:\\Users\user\Downloads\MY THESIS EDIT.docx | TO: C:\Drive_Organizer\DOCX_Files\MY THESIS EDIT.docx
+2026-11-24 21:27:56,592 - INFO - MOVED | FROM: C:\\Users\user\Downloads\MY THESIS EDITED.docx | TO: C:\Drive_Organizer\DOCX_Files\MY THESIS EDITED.docx
+2026-11-24 21:27:56,592 - INFO - MOVED | FROM: C:\\Users\user\Downloads\MY THESIS.docx | TO: C:\Drive_Organizer\DOCX_Files\MY THESIS.docx
+2026-11-24 21:27:56,592 - INFO - MOVED | FROM: C:\\Users\user\Downloads\NASOGASTRIC TUBE.pptx | TO: C:\Drive_Organizer\PPT_Files\NASOGASTRIC TUBE.pptx
+2026-11-24 21:27:56,592 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Neonatal_Examination.pdf | TO: C:\Drive_Organizer\PDF_Files\Neonatal_Examination.pdf
+2026-11-24 21:27:56,592 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Netter's Clinical Anatomy.pdf | TO: C:\Drive_Organizer\PDF_Files\Netter's Clinical Anatomy_1.pdf
+2026-11-24 21:27:56,592 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Nyamadi Philip certificate plp.pdf | TO: C:\Drive_Organizer\PDF_Files\Nyamadi Philip certificate plp.pdf
+2026-11-24 21:27:56,592 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Nyamadi Philip certificate.pdf | TO: C:\Drive_Organizer\PDF_Files\Nyamadi Philip certificate.pdf
+2026-11-24 21:27:56,608 - INFO - MOVED | FROM: C:\\Users\user\Downloads\NYAMADI PHILIP CV--refined.docx | TO: C:\Drive_Organizer\DOCX_Files\NYAMADI PHILIP CV--refined.docx
+2026-11-24 21:27:56,608 - INFO - MOVED | FROM: C:\\Users\user\Downloads\NYAMADI PHILIP CV..pdf | TO: C:\Drive_Organizer\PDF_Files\NYAMADI PHILIP CV..pdf
+2026-11-24 21:27:56,608 - INFO - MOVED | FROM: C:\\Users\user\Downloads\NYAMADI PHILIP-CAPSTONE PROJECT.pdf | TO: C:\Drive_Organizer\PDF_Files\NYAMADI PHILIP-CAPSTONE PROJECT.pdf
+2026-11-24 21:27:56,608 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Nyamadi-Philip (1).pptx | TO: C:\Drive_Organizer\PPT_Files\Nyamadi-Philip (1).pptx
+2026-11-24 21:27:56,608 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Nyamadi-Philip.pdf | TO: C:\Drive_Organizer\PDF_Files\Nyamadi-Philip.pdf
+2026-11-24 21:27:56,608 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Nyamadi-Philip.pptx | TO: C:\Drive_Organizer\PPT_Files\Nyamadi-Philip.pptx
+2026-11-24 21:27:56,608 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Nyornukpui_Constitution_Draft.pdf | TO: C:\Drive_Organizer\PDF_Files\Nyornukpui_Constitution_Draft.pdf
+2026-11-24 21:27:56,608 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Nyornukpui_Constitution_v3_Final.docx | TO: C:\Drive_Organizer\DOCX_Files\Nyornukpui_Constitution_v3_Final.docx
+2026-11-24 21:27:56,608 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Obs sheet 1.pdf | TO: C:\Drive_Organizer\PDF_Files\Obs sheet 1.pdf
+2026-11-24 21:27:56,623 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Obstetrics_and_Gynecology_History_taking_dof3et_2011_2012_.pdf | TO: C:\Drive_Organizer\PDF_Files\Obstetrics_and_Gynecology_History_taking_dof3et_2011_2012_.pdf
+2026-11-24 21:27:56,623 - INFO - MOVED | FROM: C:\\Users\user\Downloads\OLAHAM Academy Capstone Project_ The Digital Impact Challenge — Zion College, Anloga (ZICO).docx | TO: C:\Drive_Organizer\DOCX_Files\OLAHAM Academy Capstone Project_ The Digital Impact Challenge — Zion College, Anloga (ZICO).docx
+2026-11-24 21:27:56,623 - INFO - MOVED | FROM: C:\\Users\user\Downloads\OLAHAM ACADEMY PHASE I CAPSTONE PROJECT.pdf | TO: C:\Drive_Organizer\PDF_Files\OLAHAM ACADEMY PHASE I CAPSTONE PROJECT.pdf
+2026-11-24 21:27:56,623 - INFO - MOVED | FROM: C:\\Users\user\Downloads\OLAHAM_Capstone_Report_Draft (1).pdf | TO: C:\Drive_Organizer\PDF_Files\OLAHAM_Capstone_Report_Draft (1).pdf
+2026-11-24 21:27:56,623 - INFO - MOVED | FROM: C:\\Users\user\Downloads\PA10204 PROJECT WORK PROPOSAL.pdf | TO: C:\Drive_Organizer\PDF_Files\PA10204 PROJECT WORK PROPOSAL.pdf
+2026-11-24 21:27:56,623 - INFO - MOVED | FROM: C:\\Users\user\Downloads\PA12250  REVISED PROPOSAL 1 (1).docx | TO: C:\Drive_Organizer\DOCX_Files\PA12250  REVISED PROPOSAL 1 (1).docx
+2026-11-24 21:27:56,623 - INFO - MOVED | FROM: C:\\Users\user\Downloads\PA12250 RESPONSES.pdf | TO: C:\Drive_Organizer\PDF_Files\PA12250 RESPONSES.pdf
+2026-11-24 21:27:56,623 - INFO - MOVED | FROM: C:\\Users\user\Downloads\PA12250 REVISED PROPOSAL 1.pdf | TO: C:\Drive_Organizer\PDF_Files\PA12250 REVISED PROPOSAL 1.pdf
+2026-11-24 21:27:56,623 - INFO - MOVED | FROM: C:\\Users\user\Downloads\PA12250 THESIS DRAFT 1.docx | TO: C:\Drive_Organizer\DOCX_Files\PA12250 THESIS DRAFT 1.docx
+2026-11-24 21:27:56,639 - INFO - MOVED | FROM: C:\\Users\user\Downloads\PA12250 THESIS.docx | TO: C:\Drive_Organizer\DOCX_Files\PA12250 THESIS.docx
+2026-11-24 21:27:56,639 - INFO - MOVED | FROM: C:\\Users\user\Downloads\PA12250.pdf | TO: C:\Drive_Organizer\PDF_Files\PA12250.pdf
+2026-11-24 21:27:56,639 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Paediatric Procedures_For Medical Students [Autosaved](1).pdf | TO: C:\Drive_Organizer\PDF_Files\Paediatric Procedures_For Medical Students [Autosaved](1).pdf
+2026-11-24 21:27:56,639 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Passco 1.pdf | TO: C:\Drive_Organizer\PDF_Files\Passco 1.pdf
+2026-11-24 21:27:56,639 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Personal Records Form.pdf | TO: C:\Drive_Organizer\PDF_Files\Personal Records Form.pdf
+2026-11-24 21:27:56,639 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Pharmacology 1.pdf | TO: C:\Drive_Organizer\PDF_Files\Pharmacology 1.pdf
+2026-11-24 21:27:56,654 - INFO - MOVED | FROM: C:\\Users\user\Downloads\PHILIP BECE.pdf | TO: C:\Drive_Organizer\PDF_Files\PHILIP BECE.pdf
+2026-11-24 21:27:56,654 - INFO - MOVED | FROM: C:\\Users\user\Downloads\PHILIP WASSCE(SCHOOL).pdf | TO: C:\Drive_Organizer\PDF_Files\PHILIP WASSCE(SCHOOL).pdf
+2026-11-24 21:27:56,654 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Physical examination wacps (1).pdf | TO: C:\Drive_Organizer\PDF_Files\Physical examination wacps (1).pdf
+2026-11-24 21:27:56,654 - INFO - MOVED | FROM: C:\\Users\user\Downloads\pocketmedicine-internalmedicine.pdf | TO: C:\Drive_Organizer\PDF_Files\pocketmedicine-internalmedicine.pdf
+2026-11-24 21:27:56,654 - INFO - MOVED | FROM: C:\\Users\user\Downloads\PRINCIPLES OF ANESTHESIA.pdf | TO: C:\Drive_Organizer\PDF_Files\PRINCIPLES OF ANESTHESIA.pdf
+2026-11-24 21:27:56,654 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Proposal Outline.pdf | TO: C:\Drive_Organizer\PDF_Files\Proposal Outline.pdf
+2026-11-24 21:27:56,670 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Prospectus.pdf | TO: C:\Drive_Organizer\PDF_Files\Prospectus.pdf
+2026-11-24 21:27:56,670 - INFO - MOVED | FROM: C:\\Users\user\Downloads\prospectus39745.pdf | TO: C:\Drive_Organizer\PDF_Files\prospectus39745.pdf
+2026-11-24 21:27:56,670 - INFO - MOVED | FROM: C:\\Users\user\Downloads\PSYCHIATRY FIILAS CONC.pdf | TO: C:\Drive_Organizer\PDF_Files\PSYCHIATRY FIILAS CONC.pdf
+2026-11-24 21:27:56,670 - INFO - MOVED | FROM: C:\\Users\user\Downloads\REC 1.docx | TO: C:\Drive_Organizer\DOCX_Files\REC 1.docx
+2026-11-24 21:27:56,670 - INFO - MOVED | FROM: C:\\Users\user\Downloads\REC 2.docx | TO: C:\Drive_Organizer\DOCX_Files\REC 2.docx
+2026-11-24 21:27:56,670 - INFO - MOVED | FROM: C:\\Users\user\Downloads\REC1.0.docx | TO: C:\Drive_Organizer\DOCX_Files\REC1.0.docx
+2026-11-24 21:27:56,670 - INFO - MOVED | FROM: C:\\Users\user\Downloads\REC1.docx | TO: C:\Drive_Organizer\DOCX_Files\REC1_1.docx
+2026-11-24 21:27:56,687 - INFO - MOVED | FROM: C:\\Users\user\Downloads\REC2.0.docx | TO: C:\Drive_Organizer\DOCX_Files\REC2.0.docx
+2026-11-24 21:27:56,687 - INFO - MOVED | FROM: C:\\Users\user\Downloads\REC2.docx | TO: C:\Drive_Organizer\DOCX_Files\REC2.docx
+2026-11-24 21:27:56,687 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Recognizing-the-Signs-and-Improving-Outcomes.pptx | TO: C:\Drive_Organizer\PPT_Files\Recognizing-the-Signs-and-Improving-Outcomes.pptx
+2026-11-24 21:27:56,687 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Respiratory_Examination.pdf | TO: C:\Drive_Organizer\PDF_Files\Respiratory_Examination.pdf
+2026-11-24 21:27:56,687 - INFO - MOVED | FROM: C:\\Users\user\Downloads\s11906-022-01193-6.pdf | TO: C:\Drive_Organizer\PDF_Files\s11906-022-01193-6.pdf
+2026-11-24 21:27:56,696 - INFO - MOVED | FROM: C:\\Users\user\Downloads\s12872-023-03486-3.pdf | TO: C:\Drive_Organizer\PDF_Files\s12872-023-03486-3.pdf
+2026-11-24 21:27:56,696 - INFO - MOVED | FROM: C:\\Users\user\Downloads\s12911-024-02653-6.pdf | TO: C:\Drive_Organizer\PDF_Files\s12911-024-02653-6.pdf
+2026-11-24 21:27:56,696 - INFO - MOVED | FROM: C:\\Users\user\Downloads\sensors-22-05377.pdf | TO: C:\Drive_Organizer\PDF_Files\sensors-22-05377.pdf
+2026-11-24 21:27:56,696 - INFO - MOVED | FROM: C:\\Users\user\Downloads\sharma-et-al-2022-telehealth-technologies-in-diabetes-self-management-and-education.pdf | TO: C:\Drive_Organizer\PDF_Files\sharma-et-al-2022-telehealth-technologies-in-diabetes-self-management-and-education.pdf
+2026-11-24 21:27:56,696 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Sheet of pediatric-group A.pdf | TO: C:\Drive_Organizer\PDF_Files\Sheet of pediatric-group A.pdf
+2026-11-24 21:27:56,696 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Sheet of pediatric.pdf | TO: C:\Drive_Organizer\PDF_Files\Sheet of pediatric.pdf
+2026-11-24 21:27:56,696 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Smart Sheet for History Taking in Obstetrics.pdf | TO: C:\Drive_Organizer\PDF_Files\Smart Sheet for History Taking in Obstetrics.pdf
+2026-11-24 21:27:56,696 - INFO - MOVED | FROM: C:\\Users\user\Downloads\SMPA232-Lecture 2.pdf | TO: C:\Drive_Organizer\PDF_Files\SMPA232-Lecture 2.pdf
+2026-11-24 21:27:56,712 - INFO - MOVED | FROM: C:\\Users\user\Downloads\SOURCES LIBRARY.pdf | TO: C:\Drive_Organizer\PDF_Files\SOURCES LIBRARY.pdf
+2026-11-24 21:27:56,712 - INFO - MOVED | FROM: C:\\Users\user\Downloads\SURGERY HISTORIES (1).pdf | TO: C:\Drive_Organizer\PDF_Files\SURGERY HISTORIES (1).pdf
+2026-11-24 21:27:56,712 - INFO - MOVED | FROM: C:\\Users\user\Downloads\SURGERY HISTORIES.pdf | TO: C:\Drive_Organizer\PDF_Files\SURGERY HISTORIES.pdf
+2026-11-24 21:27:56,712 - INFO - MOVED | FROM: C:\\Users\user\Downloads\SURGERY OSCE compilation.pdf | TO: C:\Drive_Organizer\PDF_Files\SURGERY OSCE compilation.pdf
+2026-11-24 21:27:56,720 - INFO - MOVED | FROM: C:\\Users\user\Downloads\SURGERY REPORTAGE TEMPLATE.pdf | TO: C:\Drive_Organizer\PDF_Files\SURGERY REPORTAGE TEMPLATE.pdf
+2026-11-24 21:27:56,720 - INFO - MOVED | FROM: C:\\Users\user\Downloads\THR LAST DANCE 1.0.pdf | TO: C:\Drive_Organizer\PDF_Files\THR LAST DANCE 1.0.pdf
+2026-11-24 21:27:56,720 - INFO - MOVED | FROM: C:\\Users\user\Downloads\THYROID FILLAS.pdf | TO: C:\Drive_Organizer\PDF_Files\THYROID FILLAS.pdf
+2026-11-24 21:27:56,720 - INFO - MOVED | FROM: C:\\Users\user\Downloads\TOC_Thesis.docx | TO: C:\Drive_Organizer\DOCX_Files\TOC_Thesis.docx
+2026-11-24 21:27:56,728 - INFO - MOVED | FROM: C:\\Users\user\Downloads\UHAS_Group7_Suicide_Final-1.pdf | TO: C:\Drive_Organizer\PDF_Files\UHAS_Group7_Suicide_Final-1.pdf
+2026-11-24 21:27:56,729 - INFO - MOVED | FROM: C:\\Users\user\Downloads\UHAS_REC_PROTOCOL_SUBMISSION_CHECKLIST_v3_August 20 (1) (1).docx | TO: C:\Drive_Organizer\DOCX_Files\UHAS_REC_PROTOCOL_SUBMISSION_CHECKLIST_v3_August 20 (1) (1).docx
+2026-11-24 21:27:56,729 - INFO - MOVED | FROM: C:\\Users\user\Downloads\undertaking22927.pdf | TO: C:\Drive_Organizer\PDF_Files\undertaking22927.pdf
+2026-11-24 21:27:56,729 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Unified_theory_of_acceptance_and_use_of.pdf | TO: C:\Drive_Organizer\PDF_Files\Unified_theory_of_acceptance_and_use_of.pdf
+2026-11-24 21:27:56,729 - INFO - MOVED | FROM: C:\\Users\user\Downloads\URINE DIPSTICK TEST.pptx | TO: C:\Drive_Organizer\PPT_Files\URINE DIPSTICK TEST.pptx
+2026-11-24 21:27:56,737 - INFO - MOVED | FROM: C:\\Users\user\Downloads\WAEC - RESULTS.pdf | TO: C:\Drive_Organizer\PDF_Files\WAEC - RESULTS.pdf
+2026-11-24 21:27:56,737 - INFO - MOVED | FROM: C:\\Users\user\Downloads\WHO POCKET HANDBOOK.pdf | TO: C:\Drive_Organizer\PDF_Files\WHO POCKET HANDBOOK.pdf
+2026-11-24 21:27:56,737 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Zero_to_finals_ Internal medicine.pdf | TO: C:\Drive_Organizer\PDF_Files\Zero_to_finals_ Internal medicine.pdf
+2026-11-24 21:27:56,737 - INFO - MOVED | FROM: C:\\Users\user\Downloads\[Ped] Abdomen (Dr. Aziz).pdf | TO: C:\Drive_Organizer\PDF_Files\[Ped] Abdomen (Dr. Aziz).pdf
+2026-11-24 21:27:56,737 - INFO - MOVED | FROM: C:\\Users\user\Downloads\[Ped] Down $ (Dr. Aziz).pdf | TO: C:\Drive_Organizer\PDF_Files\[Ped] Down $ (Dr. Aziz).pdf
+2026-11-24 21:27:56,745 - INFO - MOVED | FROM: C:\\Users\user\Downloads\[Ped] Short Statures (Dr. Aziz).pdf | TO: C:\Drive_Organizer\PDF_Files\[Ped] Short Statures (Dr. Aziz).pdf
+2026-11-24 21:27:56,745 - INFO - MOVED | FROM: C:\\Users\user\Downloads\[Ped] TOF (Dr. Aziz).pdf | TO: C:\Drive_Organizer\PDF_Files\[Ped] TOF (Dr. Aziz).pdf
+2026-11-24 21:27:56,745 - INFO - MOVED | FROM: C:\\Users\user\Downloads\[Ped] VSD (Dr. Aziz).pdf | TO: C:\Drive_Organizer\PDF_Files\[Ped] VSD (Dr. Aziz).pdf
+2026-11-24 21:27:56,753 - INFO - MOVED | FROM: C:\\Users\user\Downloads\~$ THESIS.docx | TO: C:\Drive_Organizer\DOCX_Files\~$ THESIS.docx
+2026-11-24 21:27:56,753 - INFO - MOVED | FROM: C:\\Users\user\Downloads\~$12250 THESIS.docx | TO: C:\Drive_Organizer\DOCX_Files\~$12250 THESIS.docx
+2026-11-24 21:27:56,753 - INFO - MOVED | FROM: C:\\Users\user\Downloads\~$apter1_Corrected.docx | TO: C:\Drive_Organizer\DOCX_Files\~$apter1_Corrected.docx
+2026-11-24 21:27:56,753 - INFO - MOVED | FROM: C:\\Users\user\Downloads\~$LINDA OKESIE COMBINED WORK 1&5.docx | TO: C:\Drive_Organizer\DOCX_Files\~$LINDA OKESIE COMBINED WORK 1&5.docx
+2026-11-24 21:27:56,753 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Compressed\article.pdf | TO: C:\Drive_Organizer\PDF_Files\article.pdf
+2026-11-24 21:27:56,753 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Documents\2024-2025 International Financial Aid Application.pdf | TO: C:\Drive_Organizer\PDF_Files\2024-2025 International Financial Aid Application.pdf
+2026-11-24 21:27:56,753 - INFO - MOVED | FROM: C:\\Users\user\Downloads\Documents\Early detection of childhood cancers very final.pptx | TO: C:\Drive_Organizer\PPT_Files\Early detection of childhood cancers very final_2.pptx
+2026-11-24 21:27:56,768 - INFO - MOVED | FROM: C:\\Users\user\Downloads\PASCO N-20250320T230739Z-001\PASCO N\SMPA 321 2023_Outline.docx | TO: C:\Drive_Organizer\DOCX_Files\SMPA 321 2023_Outline.docx
+2026-11-24 21:27:56,768 - INFO - MOVED | FROM: C:\\Users\user\Downloads\PAST QUESTIONS-20250320T230734Z-001\PAST QUESTIONS\15_pharmacology.pdf | TO: C:\Drive_Organizer\PDF_Files\15_pharmacology.pdf
+2026-11-24 21:27:56,768 - INFO - MOVED | FROM: C:\\Users\user\Downloads\PAST QUESTIONS-20250320T230734Z-001\PAST QUESTIONS\Sample questions_Diuretics.pdf | TO: C:\Drive_Organizer\PDF_Files\Sample questions_Diuretics.pdf
+2026-11-24 21:27:56,768 - INFO - MOVED | FROM: C:\\Users\user\Local Sites\online-course\app\public\wp-content\plugins\master-addons\assets\images\sample.pdf | TO: C:\Drive_Organizer\PDF_Files\sample.pdf
+2026-11-24 21:27:56,768 - INFO - MOVED | FROM: C:\\Users\user\PHARMACOLOGY PASCO\15_pharmacology.pdf | TO: C:\Drive_Organizer\PDF_Files\15_pharmacology_1.pdf
+2026-11-24 21:27:56,768 - INFO - MOVED | FROM: C:\\Users\user\Pictures\2023_2024 UHAS SRC MBK APPLICATION FORM.pdf | TO: C:\Drive_Organizer\PDF_Files\2023_2024 UHAS SRC MBK APPLICATION FORM.pdf
+2026-11-24 21:27:56,768 - INFO - MOVED | FROM: C:\\Users\user\Pictures\Lecture 1.pdf | TO: C:\Drive_Organizer\PDF_Files\Lecture 1.pdf
+2026-11-24 21:27:56,768 - INFO - MOVED | FROM: C:\\Users\user\Pictures\Lecture 2.pdf | TO: C:\Drive_Organizer\PDF_Files\Lecture 2.pdf
+2026-11-24 21:27:56,768 - INFO - MOVED | FROM: C:\\Users\user\Pictures\UHAS-feeschedule-2324_GH-Provisional.pdf | TO: C:\Drive_Organizer\PDF_Files\UHAS-feeschedule-2324_GH-Provisional_1.pdf
+2026-11-24 21:27:56,784 - INFO - MOVED | FROM: C:\\Users\user\Pictures\trusted\LINUX FUNDAMENTALS.pdf | TO: C:\Drive_Organizer\PDF_Files\LINUX FUNDAMENTALS_1.pdf
